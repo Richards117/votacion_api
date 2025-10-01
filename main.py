@@ -100,9 +100,13 @@ num_attributes = len(dataset[0]) - 2
 # ------------------- API con FastAPI -------------------
 app = FastAPI()
 
+# Endpoint raíz para comprobar que la API está viva
+@app.get("/")
+def root():
+    return {"mensaje": "API corriendo correctamente"}
+
 class Registro(BaseModel):
     datos: conlist(int, min_length=num_attributes, max_length=num_attributes)
-
 
 @app.post("/predecir")
 def predecir(registro: Registro):
