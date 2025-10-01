@@ -2,6 +2,8 @@ from csv import reader
 from math import sqrt, exp, pi
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, conlist
+import os
+import uvicorn
 
 # ------------------- Paso 1: Cargar CSV -------------------
 def load_csv(filename):
@@ -116,3 +118,8 @@ def predecir(registro: Registro):
     prediccion_num = predict(summaries, input_data)
     partido_real = [k for k, v in partido_lookup.items() if v == prediccion_num][0]
     return {"prediccion": partido_real}
+
+# ------------------- INICIO DE SERVIDOR -------------------
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8000))  # usar el puerto asignado por Render
+    uvicorn.run("main:app", host="0.0.0.0", port=port, reload=True)
