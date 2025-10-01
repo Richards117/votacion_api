@@ -1,0 +1,31 @@
+id,genero,educacion,ocupacion,estadocivil,temasinteres,prioridadcandidato,frecuenciavoto,fuentedeinformacion,cargo,entidad,partido
+1,Masculino,Pregrado,Empleado,Soltero,Economía,Honestidad,Siempre voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PartidoA
+2,Femenino,Secundaria,Estudiante,Soltero,Educación,Propuestas,A veces voto,Televisión,GOBERNACIÓN,ANTIOQUIA,PartidoB
+3,Masculino,Postgrado,Independiente,Casado,Salud,Experiencia,Siempre voto,Periódicos,ALCALDÍA,BOGOTÁ,PartidoC
+4,Femenino,Primaria,Desempleado,Viudo,Medio ambiente,Carisma,Nunca voto,Amigos/familia,CONGRESO,VALLE DEL CAUCA,PartidoA
+5,Otro,Pregrado,Empleado,Divorciado,Seguridad,Honestidad,A veces voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PartidoB
+6,Masculino,Secundaria,Empleado,Casado,Economía,Propuestas,Siempre voto,Televisión,GOBERNACIÓN,CUNDINAMARCA,PartidoA
+7,Femenino,Pregrado,Estudiante,Soltero,Educación,Honestidad,Nunca voto,Redes sociales,ALCALDÍA,MEDELLÍN,PartidoC
+8,Masculino,Postgrado,Empleado,Divorciado,Seguridad,Experiencia,Siempre voto,Periódicos,CONGRESO,ATLÁNTICO,PartidoB
+9,Femenino,Primaria,Independiente,Casado,Salud,Carisma,A veces voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PartidoC
+10,Masculino,Pregrado,Empleado,Soltero,Economía,Honestidad,Siempre voto,Redes sociales,GOBERNACIÓN,SANTANDER,PartidoA
+11,Femenino,Secundaria,Desempleado,Viudo,Educación,Propuestas,Nunca voto,Televisión,ALCALDÍA,CALI,PartidoB
+12,Otro,Pregrado,Independiente,Divorciado,Medio ambiente,Experiencia,Siempre voto,Redes sociales,CONGRESO,NARIÑO,PartidoC
+13,Masculino,Postgrado,Empleado,Casado,Seguridad,Honestidad,Siempre voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PartidoA
+14,Femenino,Primaria,Estudiante,Soltero,Salud,Carisma,A veces voto,Amigos/familia,GOBERNACIÓN,TOLIMA,PartidoB
+15,Masculino,Pregrado,Empleado,Casado,Economía,Propuestas,Siempre voto,Redes sociales,ALCALDÍA,BARRANQUILLA,PartidoC
+16,Femenino,Secundaria,Independiente,Divorciado,Educación,Experiencia,Nunca voto,Televisión,CONGRESO,HUILA,PartidoA
+17,Masculino,Postgrado,Empleado,Soltero,Seguridad,Carisma,Siempre voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PartidoB
+18,Femenino,Pregrado,Estudiante,Casado,Medio ambiente,Honestidad,A veces voto,Redes sociales,GOBERNACIÓN,CAUCA,PartidoC
+19,Masculino,Secundaria,Empleado,Viudo,Salud,Propuestas,Siempre voto,Televisión,ALCALDÍA,BUCARAMANGA,PartidoA
+20,Femenino,Postgrado,Independiente,Casado,Economía,Experiencia,Nunca voto,Periódicos,CONGRESO,CESAR,PartidoB
+21,Masculino,Primaria,Empleado,Soltero,Educación,Carisma,Siempre voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PartidoC
+22,Femenino,Pregrado,Estudiante,Divorciado,Seguridad,Honestidad,A veces voto,Redes sociales,GOBERNACIÓN,MAGDALENA,PartidoA
+23,Masculino,Secundaria,Empleado,Casado,Medio ambiente,Propuestas,Siempre voto,Televisión,ALCALDÍA,CARTAGENA,PartidoB
+24,Otro,Pregrado,Independiente,Soltero,Salud,Experiencia,Nunca voto,Periódicos,CONGRESO,META,PartidoC
+25,Masculino,Postgrado,Empleado,Viudo,Economía,Honestidad,Siempre voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PartidoA
+26,Femenino,Secundaria,Estudiante,Casado,Educación,Propuestas,A veces voto,Televisión,GOBERNACIÓN,SUCRE,PartidoB
+27,Masculino,Pregrado,Empleado,Soltero,Seguridad,Carisma,Siempre voto,Amigos/familia,ALCALDÍA,IBAGUÉ,PartidoC
+28,Femenino,Postgrado,Independiente,Divorciado,Salud,Experiencia,Nunca voto,Periódicos,CONGRESO,BOYACÁ,PartidoA
+29,Masculino,Primaria,Empleado,Casado,Medio ambiente,Honestidad,Siempre voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PartidoB
+30,Femenino,Pregrado,Estudiante,Soltero,Seguridad,Propuestas,A veces voto,Televisión,GOBERNACIÓN,RISARALDA,PartidoC
