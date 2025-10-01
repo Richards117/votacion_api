@@ -1,0 +1,601 @@
+id,genero,educacion,ocupacion,estadocivil,temasinteres,prioridadcandidato,frecuenciavoto,fuentedeinformacion,cargo,entidad,partido
+1,Femenino,Postgrado,Estudiante,Viudo,Economía,Propuestas,A veces voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+2,Otro,Primaria,Empleado,Divorciado,Salud,Honestidad,A veces voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO ACCIÓN NACIONAL
+3,Otro,Postgrado,Estudiante,Soltero,Salud,Carisma,Siempre voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MOVIMIENTO CIUDADANO
+4,Femenino,Postgrado,Independiente,Viudo,Educación,Experiencia,A veces voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+5,Femenino,Secundaria,Empleado,Divorciado,Medio ambiente,Honestidad,A veces voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+6,Masculino,Pregrado,Estudiante,Viudo,Economía,Experiencia,A veces voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO ACCIÓN NACIONAL
+7,Masculino,Postgrado,Empleado,Divorciado,Seguridad,Experiencia,Nunca voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+8,Femenino,Postgrado,Desempleado,Divorciado,Educación,Honestidad,A veces voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,SIGAMOS HACIENDO HISTORIA
+9,Femenino,Pregrado,Desempleado,Soltero,Seguridad,Carisma,Nunca voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+10,Femenino,Primaria,Desempleado,Viudo,Salud,Propuestas,Nunca voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+11,Femenino,Secundaria,Estudiante,Divorciado,Medio ambiente,Carisma,Nunca voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO ACCIÓN NACIONAL
+12,Masculino,Postgrado,Desempleado,Casado,Educación,Experiencia,A veces voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+13,Femenino,Secundaria,Independiente,Soltero,Medio ambiente,Honestidad,A veces voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,SIGAMOS HACIENDO HISTORIA
+14,Otro,Primaria,Empleado,Casado,Educación,Propuestas,Nunca voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,FUERZA Y CORAZON POR MEXICO
+15,Otro,Secundaria,Desempleado,Casado,Salud,Propuestas,Nunca voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+16,Femenino,Pregrado,Estudiante,Soltero,Educación,Experiencia,A veces voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,CANDIDATURA INDEPENDIENTE
+17,Otro,Postgrado,Estudiante,Viudo,Seguridad,Propuestas,A veces voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,SIGAMOS HACIENDO HISTORIA
+18,Femenino,Postgrado,Independiente,Divorciado,Seguridad,Experiencia,A veces voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+19,Femenino,Postgrado,Independiente,Divorciado,Economía,Carisma,Nunca voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,SIGAMOS HACIENDO HISTORIA
+20,Otro,Pregrado,Independiente,Casado,Salud,Honestidad,Siempre voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DEL TRABAJO
+21,Masculino,Postgrado,Estudiante,Viudo,Medio ambiente,Experiencia,A veces voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MORENA
+22,Masculino,Postgrado,Desempleado,Divorciado,Seguridad,Honestidad,Siempre voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+23,Femenino,Primaria,Desempleado,Casado,Economía,Carisma,A veces voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,CANDIDATURA INDEPENDIENTE
+24,Femenino,Postgrado,Independiente,Viudo,Salud,Honestidad,Nunca voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+25,Masculino,Postgrado,Independiente,Soltero,Economía,Honestidad,A veces voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,SIGAMOS HACIENDO HISTORIA
+26,Otro,Pregrado,Desempleado,Soltero,Medio ambiente,Propuestas,Nunca voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+27,Femenino,Postgrado,Empleado,Viudo,Medio ambiente,Honestidad,Nunca voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+28,Femenino,Postgrado,Desempleado,Divorciado,Economía,Carisma,A veces voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MOVIMIENTO CIUDADANO
+29,Femenino,Secundaria,Empleado,Viudo,Economía,Propuestas,A veces voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+30,Masculino,Primaria,Empleado,Soltero,Seguridad,Honestidad,Nunca voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,FUERZA Y CORAZON POR MEXICO
+31,Otro,Postgrado,Independiente,Divorciado,Economía,Honestidad,A veces voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MORENA
+32,Masculino,Pregrado,Desempleado,Viudo,Seguridad,Propuestas,A veces voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,SIGAMOS HACIENDO HISTORIA
+33,Masculino,Secundaria,Independiente,Casado,Economía,Propuestas,Siempre voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+34,Femenino,Secundaria,Empleado,Divorciado,Seguridad,Experiencia,Siempre voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+35,Masculino,Primaria,Desempleado,Casado,Medio ambiente,Carisma,A veces voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+36,Femenino,Primaria,Desempleado,Soltero,Medio ambiente,Propuestas,Nunca voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+37,Femenino,Primaria,Empleado,Divorciado,Seguridad,Carisma,A veces voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,CANDIDATURA INDEPENDIENTE
+38,Femenino,Secundaria,Independiente,Soltero,Seguridad,Honestidad,A veces voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+39,Femenino,Primaria,Estudiante,Casado,Seguridad,Experiencia,Nunca voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DEL TRABAJO
+40,Masculino,Postgrado,Desempleado,Soltero,Educación,Experiencia,Nunca voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+41,Otro,Primaria,Desempleado,Divorciado,Economía,Propuestas,Siempre voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,CANDIDATURA INDEPENDIENTE
+42,Masculino,Secundaria,Empleado,Viudo,Salud,Experiencia,A veces voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DEL TRABAJO
+43,Masculino,Pregrado,Estudiante,Viudo,Medio ambiente,Honestidad,Siempre voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,CANDIDATURA INDEPENDIENTE
+44,Otro,Primaria,Empleado,Casado,Educación,Honestidad,A veces voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO ACCIÓN NACIONAL
+45,Masculino,Primaria,Estudiante,Casado,Salud,Experiencia,Siempre voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,FUERZA Y CORAZON POR MEXICO
+46,Otro,Pregrado,Independiente,Soltero,Economía,Carisma,Siempre voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+47,Masculino,Secundaria,Estudiante,Viudo,Economía,Honestidad,Nunca voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+48,Masculino,Primaria,Estudiante,Divorciado,Educación,Experiencia,Nunca voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MORENA
+49,Masculino,Primaria,Empleado,Divorciado,Medio ambiente,Propuestas,Nunca voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+50,Otro,Secundaria,Estudiante,Divorciado,Medio ambiente,Honestidad,A veces voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+51,Masculino,Pregrado,Empleado,Soltero,Educación,Experiencia,Siempre voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,SIGAMOS HACIENDO HISTORIA
+52,Otro,Primaria,Desempleado,Soltero,Medio ambiente,Experiencia,A veces voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,FUERZA Y CORAZON POR MEXICO
+53,Femenino,Postgrado,Empleado,Casado,Seguridad,Carisma,A veces voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MORENA
+54,Masculino,Pregrado,Estudiante,Casado,Seguridad,Carisma,Siempre voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DEL TRABAJO
+55,Otro,Postgrado,Desempleado,Casado,Medio ambiente,Honestidad,Siempre voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,SIGAMOS HACIENDO HISTORIA
+56,Masculino,Pregrado,Desempleado,Viudo,Seguridad,Experiencia,A veces voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DEL TRABAJO
+57,Masculino,Primaria,Empleado,Viudo,Medio ambiente,Experiencia,Siempre voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DEL TRABAJO
+58,Otro,Primaria,Independiente,Divorciado,Economía,Carisma,A veces voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MORENA
+59,Masculino,Primaria,Empleado,Viudo,Medio ambiente,Carisma,Nunca voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+60,Masculino,Secundaria,Estudiante,Viudo,Educación,Propuestas,Nunca voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+61,Masculino,Postgrado,Desempleado,Viudo,Medio ambiente,Experiencia,Siempre voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,FUERZA Y CORAZON POR MEXICO
+62,Femenino,Secundaria,Desempleado,Casado,Economía,Carisma,A veces voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+63,Masculino,Secundaria,Empleado,Divorciado,Educación,Propuestas,A veces voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO ACCIÓN NACIONAL
+64,Otro,Primaria,Estudiante,Viudo,Seguridad,Experiencia,Siempre voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MOVIMIENTO CIUDADANO
+65,Femenino,Postgrado,Desempleado,Viudo,Educación,Propuestas,Nunca voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MORENA
+66,Femenino,Secundaria,Independiente,Soltero,Salud,Experiencia,Nunca voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DEL TRABAJO
+67,Otro,Postgrado,Independiente,Soltero,Seguridad,Experiencia,A veces voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MOVIMIENTO CIUDADANO
+68,Masculino,Postgrado,Empleado,Casado,Economía,Experiencia,A veces voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MOVIMIENTO CIUDADANO
+69,Otro,Primaria,Empleado,Divorciado,Economía,Carisma,Siempre voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+70,Masculino,Secundaria,Empleado,Soltero,Economía,Propuestas,A veces voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO ACCIÓN NACIONAL
+71,Otro,Pregrado,Desempleado,Casado,Medio ambiente,Carisma,Siempre voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,CANDIDATURA INDEPENDIENTE
+72,Otro,Pregrado,Estudiante,Viudo,Seguridad,Experiencia,A veces voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MORENA
+73,Femenino,Pregrado,Independiente,Casado,Economía,Carisma,Nunca voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MOVIMIENTO CIUDADANO
+74,Masculino,Secundaria,Desempleado,Viudo,Salud,Honestidad,A veces voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DEL TRABAJO
+75,Otro,Primaria,Empleado,Casado,Salud,Propuestas,Nunca voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+76,Masculino,Pregrado,Independiente,Soltero,Educación,Carisma,Nunca voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,FUERZA Y CORAZON POR MEXICO
+77,Femenino,Primaria,Estudiante,Viudo,Medio ambiente,Carisma,Nunca voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO ACCIÓN NACIONAL
+78,Masculino,Primaria,Independiente,Viudo,Seguridad,Experiencia,A veces voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO ACCIÓN NACIONAL
+79,Femenino,Pregrado,Independiente,Divorciado,Educación,Experiencia,A veces voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+80,Masculino,Secundaria,Independiente,Soltero,Salud,Carisma,A veces voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO ACCIÓN NACIONAL
+81,Otro,Primaria,Desempleado,Viudo,Seguridad,Honestidad,A veces voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,FUERZA Y CORAZON POR MEXICO
+82,Otro,Postgrado,Desempleado,Soltero,Seguridad,Experiencia,Siempre voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO ACCIÓN NACIONAL
+83,Femenino,Primaria,Empleado,Viudo,Seguridad,Propuestas,Siempre voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,CANDIDATURA INDEPENDIENTE
+84,Femenino,Pregrado,Independiente,Soltero,Seguridad,Carisma,Nunca voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DEL TRABAJO
+85,Masculino,Primaria,Empleado,Viudo,Salud,Experiencia,Nunca voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,CANDIDATURA INDEPENDIENTE
+86,Masculino,Pregrado,Estudiante,Viudo,Medio ambiente,Carisma,A veces voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DEL TRABAJO
+87,Masculino,Pregrado,Desempleado,Casado,Seguridad,Experiencia,A veces voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+88,Masculino,Primaria,Independiente,Soltero,Educación,Experiencia,A veces voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,FUERZA Y CORAZON POR MEXICO
+89,Masculino,Secundaria,Empleado,Casado,Medio ambiente,Propuestas,A veces voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MOVIMIENTO CIUDADANO
+90,Masculino,Pregrado,Desempleado,Soltero,Seguridad,Propuestas,A veces voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MOVIMIENTO CIUDADANO
+91,Otro,Pregrado,Independiente,Viudo,Economía,Carisma,A veces voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+92,Femenino,Pregrado,Desempleado,Soltero,Educación,Experiencia,Nunca voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+93,Otro,Primaria,Empleado,Divorciado,Salud,Honestidad,A veces voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO ACCIÓN NACIONAL
+94,Masculino,Primaria,Empleado,Divorciado,Economía,Carisma,Siempre voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MOVIMIENTO CIUDADANO
+95,Otro,Postgrado,Empleado,Casado,Medio ambiente,Experiencia,Nunca voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,SIGAMOS HACIENDO HISTORIA
+96,Otro,Secundaria,Desempleado,Viudo,Economía,Experiencia,Nunca voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+97,Masculino,Secundaria,Estudiante,Viudo,Educación,Honestidad,Siempre voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MOVIMIENTO CIUDADANO
+98,Masculino,Postgrado,Independiente,Soltero,Medio ambiente,Honestidad,A veces voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+99,Masculino,Pregrado,Estudiante,Casado,Economía,Carisma,A veces voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MORENA
+100,Masculino,Secundaria,Desempleado,Soltero,Economía,Honestidad,Nunca voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MOVIMIENTO CIUDADANO
+101,Masculino,Secundaria,Empleado,Soltero,Educación,Propuestas,Nunca voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MOVIMIENTO CIUDADANO
+102,Otro,Primaria,Independiente,Divorciado,Seguridad,Propuestas,Nunca voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+103,Femenino,Pregrado,Empleado,Casado,Economía,Propuestas,Siempre voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+104,Otro,Primaria,Empleado,Divorciado,Educación,Carisma,Siempre voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,CANDIDATURA INDEPENDIENTE
+105,Otro,Secundaria,Empleado,Viudo,Educación,Experiencia,Nunca voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,FUERZA Y CORAZON POR MEXICO
+106,Otro,Postgrado,Empleado,Viudo,Economía,Honestidad,Nunca voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MOVIMIENTO CIUDADANO
+107,Masculino,Secundaria,Empleado,Casado,Seguridad,Propuestas,Siempre voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DEL TRABAJO
+108,Masculino,Primaria,Empleado,Viudo,Seguridad,Honestidad,Nunca voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,CANDIDATURA INDEPENDIENTE
+109,Masculino,Postgrado,Estudiante,Viudo,Educación,Honestidad,Siempre voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+110,Masculino,Postgrado,Empleado,Casado,Salud,Propuestas,A veces voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+111,Masculino,Secundaria,Independiente,Viudo,Seguridad,Carisma,Siempre voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,FUERZA Y CORAZON POR MEXICO
+112,Otro,Primaria,Empleado,Divorciado,Economía,Honestidad,Siempre voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,CANDIDATURA INDEPENDIENTE
+113,Femenino,Secundaria,Desempleado,Viudo,Economía,Carisma,Siempre voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,CANDIDATURA INDEPENDIENTE
+114,Femenino,Secundaria,Desempleado,Casado,Educación,Honestidad,Siempre voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,SIGAMOS HACIENDO HISTORIA
+115,Otro,Primaria,Estudiante,Viudo,Medio ambiente,Experiencia,Nunca voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,SIGAMOS HACIENDO HISTORIA
+116,Femenino,Postgrado,Independiente,Casado,Medio ambiente,Carisma,A veces voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MORENA
+117,Masculino,Postgrado,Independiente,Casado,Educación,Experiencia,Nunca voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MORENA
+118,Masculino,Pregrado,Independiente,Soltero,Medio ambiente,Experiencia,A veces voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MORENA
+119,Masculino,Postgrado,Estudiante,Soltero,Economía,Experiencia,Siempre voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+120,Femenino,Primaria,Estudiante,Casado,Seguridad,Propuestas,Nunca voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,CANDIDATURA INDEPENDIENTE
+121,Masculino,Secundaria,Independiente,Casado,Medio ambiente,Experiencia,A veces voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DEL TRABAJO
+122,Masculino,Secundaria,Estudiante,Casado,Economía,Propuestas,A veces voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+123,Femenino,Primaria,Estudiante,Divorciado,Educación,Propuestas,Siempre voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MORENA
+124,Masculino,Postgrado,Desempleado,Viudo,Economía,Carisma,Siempre voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO ACCIÓN NACIONAL
+125,Otro,Secundaria,Empleado,Divorciado,Medio ambiente,Honestidad,A veces voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+126,Otro,Secundaria,Empleado,Casado,Economía,Experiencia,Nunca voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,FUERZA Y CORAZON POR MEXICO
+127,Otro,Primaria,Empleado,Divorciado,Economía,Propuestas,A veces voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MORENA
+128,Otro,Postgrado,Empleado,Divorciado,Seguridad,Experiencia,Nunca voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+129,Masculino,Secundaria,Independiente,Soltero,Educación,Honestidad,A veces voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO ACCIÓN NACIONAL
+130,Otro,Secundaria,Independiente,Casado,Educación,Experiencia,Nunca voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DEL TRABAJO
+131,Otro,Primaria,Estudiante,Soltero,Seguridad,Propuestas,Siempre voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,FUERZA Y CORAZON POR MEXICO
+132,Masculino,Pregrado,Empleado,Soltero,Seguridad,Experiencia,Nunca voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,CANDIDATURA INDEPENDIENTE
+133,Femenino,Postgrado,Empleado,Casado,Seguridad,Experiencia,Siempre voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DEL TRABAJO
+134,Otro,Pregrado,Desempleado,Divorciado,Medio ambiente,Honestidad,Nunca voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,CANDIDATURA INDEPENDIENTE
+135,Femenino,Secundaria,Desempleado,Divorciado,Educación,Honestidad,Siempre voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MOVIMIENTO CIUDADANO
+136,Femenino,Postgrado,Desempleado,Soltero,Educación,Carisma,Siempre voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,FUERZA Y CORAZON POR MEXICO
+137,Masculino,Pregrado,Estudiante,Casado,Salud,Propuestas,Nunca voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,FUERZA Y CORAZON POR MEXICO
+138,Otro,Pregrado,Empleado,Soltero,Salud,Honestidad,Nunca voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO DEL TRABAJO
+139,Femenino,Postgrado,Desempleado,Soltero,Salud,Carisma,Siempre voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO ACCIÓN NACIONAL
+140,Masculino,Postgrado,Independiente,Viudo,Salud,Carisma,A veces voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MOVIMIENTO CIUDADANO
+141,Femenino,Postgrado,Estudiante,Viudo,Seguridad,Propuestas,A veces voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+142,Otro,Pregrado,Desempleado,Casado,Economía,Carisma,A veces voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,SIGAMOS HACIENDO HISTORIA
+143,Otro,Primaria,Desempleado,Soltero,Salud,Experiencia,Nunca voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,FUERZA Y CORAZON POR MEXICO
+144,Femenino,Primaria,Estudiante,Soltero,Salud,Honestidad,Nunca voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+145,Masculino,Primaria,Independiente,Casado,Medio ambiente,Experiencia,Nunca voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,SIGAMOS HACIENDO HISTORIA
+146,Femenino,Pregrado,Estudiante,Viudo,Medio ambiente,Experiencia,A veces voto,Periódicos,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MORENA
+147,Otro,Postgrado,Estudiante,Soltero,Economía,Honestidad,Nunca voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,SIGAMOS HACIENDO HISTORIA
+148,Femenino,Pregrado,Independiente,Divorciado,Medio ambiente,Propuestas,A veces voto,Redes sociales,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,SIGAMOS HACIENDO HISTORIA
+149,Masculino,Postgrado,Empleado,Soltero,Salud,Propuestas,Nunca voto,Amigos/familia,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,PARTIDO ACCIÓN NACIONAL
+150,Femenino,Primaria,Independiente,Divorciado,Seguridad,Propuestas,Siempre voto,Televisión,PRESIDENCIA DE LA REPÚBLICA,NACIONAL,MORENA
+151,Masculino,Primaria,Independiente,Viudo,Economía,Honestidad,A veces voto,Amigos/familia,GOBERNACIÓN,MEDELLÍN,MORENA
+152,Otro,Primaria,Independiente,Viudo,Salud,Carisma,Siempre voto,Periódicos,GOBERNACIÓN,CUNDINAMARCA,PARTIDO DEL TRABAJO
+153,Otro,Postgrado,Empleado,Viudo,Medio ambiente,Carisma,Nunca voto,Periódicos,GOBERNACIÓN,SANTANDER,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+154,Otro,Primaria,Desempleado,Soltero,Economía,Experiencia,Siempre voto,Redes sociales,GOBERNACIÓN,SANTANDER,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+155,Otro,Pregrado,Empleado,Viudo,Educación,Propuestas,Nunca voto,Televisión,GOBERNACIÓN,SANTANDER,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+156,Femenino,Pregrado,Desempleado,Viudo,Educación,Honestidad,Nunca voto,Periódicos,GOBERNACIÓN,BOGOTÁ,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+157,Otro,Postgrado,Desempleado,Divorciado,Medio ambiente,Honestidad,Nunca voto,Redes sociales,GOBERNACIÓN,SANTANDER,SIGAMOS HACIENDO HISTORIA
+158,Femenino,Pregrado,Estudiante,Divorciado,Seguridad,Propuestas,A veces voto,Periódicos,GOBERNACIÓN,ATLÁNTICO,PARTIDO DEL TRABAJO
+159,Masculino,Postgrado,Desempleado,Casado,Economía,Honestidad,Nunca voto,Televisión,GOBERNACIÓN,CUNDINAMARCA,FUERZA Y CORAZON POR MEXICO
+160,Masculino,Secundaria,Independiente,Soltero,Economía,Carisma,Nunca voto,Amigos/familia,GOBERNACIÓN,SANTANDER,PARTIDO ACCIÓN NACIONAL
+161,Otro,Pregrado,Estudiante,Casado,Medio ambiente,Honestidad,Siempre voto,Amigos/familia,GOBERNACIÓN,MEDELLÍN,SIGAMOS HACIENDO HISTORIA
+162,Femenino,Pregrado,Estudiante,Casado,Economía,Carisma,Siempre voto,Redes sociales,GOBERNACIÓN,CALI,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+163,Masculino,Pregrado,Estudiante,Soltero,Educación,Honestidad,Nunca voto,Amigos/familia,GOBERNACIÓN,NARIÑO,SIGAMOS HACIENDO HISTORIA
+164,Otro,Postgrado,Desempleado,Casado,Medio ambiente,Propuestas,A veces voto,Redes sociales,GOBERNACIÓN,BOGOTÁ,PARTIDO DEL TRABAJO
+165,Femenino,Primaria,Independiente,Casado,Medio ambiente,Carisma,A veces voto,Amigos/familia,GOBERNACIÓN,ATLÁNTICO,SIGAMOS HACIENDO HISTORIA
+166,Masculino,Primaria,Empleado,Casado,Seguridad,Propuestas,A veces voto,Televisión,GOBERNACIÓN,BOGOTÁ,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+167,Masculino,Secundaria,Empleado,Divorciado,Educación,Carisma,A veces voto,Amigos/familia,GOBERNACIÓN,NARIÑO,MORENA
+168,Masculino,Postgrado,Estudiante,Divorciado,Medio ambiente,Honestidad,Nunca voto,Periódicos,GOBERNACIÓN,BOGOTÁ,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+169,Otro,Pregrado,Empleado,Casado,Seguridad,Carisma,Siempre voto,Televisión,GOBERNACIÓN,MEDELLÍN,MOVIMIENTO CIUDADANO
+170,Otro,Secundaria,Desempleado,Casado,Educación,Carisma,Nunca voto,Amigos/familia,GOBERNACIÓN,MEDELLÍN,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+171,Femenino,Pregrado,Desempleado,Viudo,Salud,Honestidad,Nunca voto,Amigos/familia,GOBERNACIÓN,MEDELLÍN,PARTIDO DEL TRABAJO
+172,Masculino,Postgrado,Desempleado,Casado,Educación,Propuestas,Siempre voto,Amigos/familia,GOBERNACIÓN,MEDELLÍN,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+173,Femenino,Postgrado,Empleado,Divorciado,Seguridad,Propuestas,A veces voto,Periódicos,GOBERNACIÓN,TOLIMA,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+174,Femenino,Secundaria,Estudiante,Divorciado,Medio ambiente,Experiencia,Nunca voto,Periódicos,GOBERNACIÓN,MEDELLÍN,PARTIDO ACCIÓN NACIONAL
+175,Femenino,Secundaria,Independiente,Divorciado,Medio ambiente,Propuestas,Siempre voto,Periódicos,GOBERNACIÓN,VALLE DEL CAUCA,FUERZA Y CORAZON POR MEXICO
+176,Otro,Pregrado,Empleado,Soltero,Medio ambiente,Experiencia,Nunca voto,Televisión,GOBERNACIÓN,CUNDINAMARCA,FUERZA Y CORAZON POR MEXICO
+177,Femenino,Pregrado,Empleado,Viudo,Economía,Honestidad,Siempre voto,Redes sociales,GOBERNACIÓN,NARIÑO,SIGAMOS HACIENDO HISTORIA
+178,Femenino,Pregrado,Independiente,Soltero,Medio ambiente,Honestidad,Siempre voto,Periódicos,GOBERNACIÓN,CUNDINAMARCA,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+179,Femenino,Secundaria,Empleado,Casado,Salud,Experiencia,Siempre voto,Redes sociales,GOBERNACIÓN,CUNDINAMARCA,MOVIMIENTO CIUDADANO
+180,Otro,Primaria,Desempleado,Divorciado,Salud,Experiencia,A veces voto,Amigos/familia,GOBERNACIÓN,NARIÑO,MORENA
+181,Masculino,Secundaria,Empleado,Soltero,Seguridad,Experiencia,Siempre voto,Amigos/familia,GOBERNACIÓN,MEDELLÍN,PARTIDO DEL TRABAJO
+182,Otro,Pregrado,Independiente,Soltero,Salud,Honestidad,A veces voto,Redes sociales,GOBERNACIÓN,CALI,FUERZA Y CORAZON POR MEXICO
+183,Otro,Postgrado,Desempleado,Soltero,Salud,Propuestas,A veces voto,Periódicos,GOBERNACIÓN,VALLE DEL CAUCA,MORENA
+184,Femenino,Secundaria,Independiente,Divorciado,Educación,Experiencia,A veces voto,Redes sociales,GOBERNACIÓN,ATLÁNTICO,CANDIDATURA INDEPENDIENTE
+185,Masculino,Postgrado,Desempleado,Viudo,Salud,Propuestas,Siempre voto,Periódicos,GOBERNACIÓN,MEDELLÍN,CANDIDATURA INDEPENDIENTE
+186,Femenino,Postgrado,Desempleado,Casado,Educación,Carisma,Siempre voto,Periódicos,GOBERNACIÓN,BOGOTÁ,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+187,Femenino,Pregrado,Empleado,Soltero,Educación,Carisma,A veces voto,Redes sociales,GOBERNACIÓN,VALLE DEL CAUCA,SIGAMOS HACIENDO HISTORIA
+188,Masculino,Secundaria,Empleado,Viudo,Medio ambiente,Carisma,Siempre voto,Periódicos,GOBERNACIÓN,TOLIMA,SIGAMOS HACIENDO HISTORIA
+189,Masculino,Primaria,Desempleado,Casado,Seguridad,Carisma,Siempre voto,Periódicos,GOBERNACIÓN,MEDELLÍN,PARTIDO ACCIÓN NACIONAL
+190,Otro,Pregrado,Estudiante,Soltero,Medio ambiente,Propuestas,Nunca voto,Amigos/familia,GOBERNACIÓN,ATLÁNTICO,CANDIDATURA INDEPENDIENTE
+191,Femenino,Secundaria,Estudiante,Viudo,Seguridad,Carisma,Siempre voto,Periódicos,GOBERNACIÓN,VALLE DEL CAUCA,MORENA
+192,Masculino,Postgrado,Empleado,Soltero,Economía,Experiencia,Siempre voto,Amigos/familia,GOBERNACIÓN,NARIÑO,PARTIDO ACCIÓN NACIONAL
+193,Otro,Postgrado,Independiente,Casado,Salud,Carisma,Siempre voto,Periódicos,GOBERNACIÓN,CALI,CANDIDATURA INDEPENDIENTE
+194,Otro,Secundaria,Estudiante,Casado,Medio ambiente,Experiencia,Siempre voto,Periódicos,GOBERNACIÓN,CALI,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+195,Otro,Secundaria,Independiente,Casado,Educación,Propuestas,Nunca voto,Televisión,GOBERNACIÓN,BOGOTÁ,PARTIDO ACCIÓN NACIONAL
+196,Masculino,Primaria,Empleado,Divorciado,Medio ambiente,Honestidad,A veces voto,Televisión,GOBERNACIÓN,NARIÑO,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+197,Masculino,Primaria,Estudiante,Viudo,Educación,Propuestas,Nunca voto,Televisión,GOBERNACIÓN,VALLE DEL CAUCA,PARTIDO ACCIÓN NACIONAL
+198,Masculino,Pregrado,Estudiante,Casado,Seguridad,Carisma,A veces voto,Redes sociales,GOBERNACIÓN,TOLIMA,CANDIDATURA INDEPENDIENTE
+199,Femenino,Postgrado,Estudiante,Viudo,Medio ambiente,Propuestas,Nunca voto,Periódicos,GOBERNACIÓN,ANTIOQUIA,FUERZA Y CORAZON POR MEXICO
+200,Otro,Secundaria,Empleado,Soltero,Salud,Carisma,A veces voto,Periódicos,GOBERNACIÓN,BOGOTÁ,MOVIMIENTO CIUDADANO
+201,Otro,Primaria,Independiente,Viudo,Educación,Honestidad,Siempre voto,Periódicos,GOBERNACIÓN,CALI,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+202,Femenino,Pregrado,Empleado,Casado,Economía,Honestidad,Nunca voto,Redes sociales,GOBERNACIÓN,ANTIOQUIA,FUERZA Y CORAZON POR MEXICO
+203,Femenino,Secundaria,Desempleado,Divorciado,Educación,Carisma,Siempre voto,Amigos/familia,GOBERNACIÓN,TOLIMA,PARTIDO DEL TRABAJO
+204,Femenino,Secundaria,Estudiante,Soltero,Educación,Honestidad,Nunca voto,Amigos/familia,GOBERNACIÓN,CALI,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+205,Femenino,Primaria,Estudiante,Viudo,Economía,Propuestas,Siempre voto,Amigos/familia,GOBERNACIÓN,NARIÑO,PARTIDO ACCIÓN NACIONAL
+206,Otro,Pregrado,Independiente,Divorciado,Medio ambiente,Honestidad,Siempre voto,Amigos/familia,GOBERNACIÓN,TOLIMA,PARTIDO ACCIÓN NACIONAL
+207,Femenino,Secundaria,Empleado,Soltero,Medio ambiente,Honestidad,Siempre voto,Televisión,GOBERNACIÓN,ANTIOQUIA,PARTIDO ACCIÓN NACIONAL
+208,Otro,Pregrado,Empleado,Casado,Salud,Experiencia,Siempre voto,Televisión,GOBERNACIÓN,SANTANDER,MOVIMIENTO CIUDADANO
+209,Otro,Secundaria,Estudiante,Soltero,Salud,Carisma,Siempre voto,Televisión,GOBERNACIÓN,TOLIMA,SIGAMOS HACIENDO HISTORIA
+210,Otro,Pregrado,Estudiante,Viudo,Seguridad,Carisma,Siempre voto,Televisión,GOBERNACIÓN,BOGOTÁ,MOVIMIENTO CIUDADANO
+211,Masculino,Primaria,Empleado,Soltero,Educación,Honestidad,Nunca voto,Amigos/familia,GOBERNACIÓN,ATLÁNTICO,SIGAMOS HACIENDO HISTORIA
+212,Masculino,Postgrado,Desempleado,Casado,Educación,Experiencia,Nunca voto,Televisión,GOBERNACIÓN,BOGOTÁ,PARTIDO DEL TRABAJO
+213,Femenino,Secundaria,Desempleado,Casado,Medio ambiente,Carisma,Nunca voto,Redes sociales,GOBERNACIÓN,NARIÑO,FUERZA Y CORAZON POR MEXICO
+214,Otro,Primaria,Estudiante,Casado,Educación,Honestidad,Nunca voto,Televisión,GOBERNACIÓN,CALI,CANDIDATURA INDEPENDIENTE
+215,Femenino,Pregrado,Estudiante,Divorciado,Medio ambiente,Propuestas,A veces voto,Amigos/familia,GOBERNACIÓN,CUNDINAMARCA,PARTIDO ACCIÓN NACIONAL
+216,Masculino,Secundaria,Empleado,Divorciado,Economía,Experiencia,Nunca voto,Televisión,GOBERNACIÓN,MEDELLÍN,CANDIDATURA INDEPENDIENTE
+217,Femenino,Secundaria,Desempleado,Viudo,Medio ambiente,Experiencia,A veces voto,Televisión,GOBERNACIÓN,CUNDINAMARCA,MOVIMIENTO CIUDADANO
+218,Otro,Primaria,Estudiante,Soltero,Seguridad,Honestidad,Siempre voto,Redes sociales,GOBERNACIÓN,MEDELLÍN,PARTIDO ACCIÓN NACIONAL
+219,Femenino,Postgrado,Desempleado,Casado,Educación,Experiencia,A veces voto,Periódicos,GOBERNACIÓN,BOGOTÁ,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+220,Otro,Primaria,Estudiante,Divorciado,Medio ambiente,Carisma,A veces voto,Periódicos,GOBERNACIÓN,NARIÑO,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+221,Masculino,Postgrado,Estudiante,Casado,Educación,Honestidad,Siempre voto,Periódicos,GOBERNACIÓN,CALI,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+222,Femenino,Secundaria,Empleado,Casado,Medio ambiente,Propuestas,Siempre voto,Televisión,GOBERNACIÓN,CALI,FUERZA Y CORAZON POR MEXICO
+223,Masculino,Secundaria,Desempleado,Divorciado,Medio ambiente,Propuestas,Nunca voto,Televisión,GOBERNACIÓN,VALLE DEL CAUCA,PARTIDO DEL TRABAJO
+224,Masculino,Primaria,Independiente,Soltero,Medio ambiente,Experiencia,Siempre voto,Redes sociales,GOBERNACIÓN,SANTANDER,MOVIMIENTO CIUDADANO
+225,Otro,Pregrado,Desempleado,Casado,Seguridad,Propuestas,A veces voto,Televisión,GOBERNACIÓN,CUNDINAMARCA,CANDIDATURA INDEPENDIENTE
+226,Otro,Postgrado,Desempleado,Soltero,Seguridad,Experiencia,Siempre voto,Televisión,GOBERNACIÓN,NARIÑO,MOVIMIENTO CIUDADANO
+227,Femenino,Postgrado,Empleado,Viudo,Educación,Experiencia,Nunca voto,Televisión,GOBERNACIÓN,SANTANDER,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+228,Femenino,Postgrado,Estudiante,Divorciado,Economía,Carisma,Nunca voto,Amigos/familia,GOBERNACIÓN,MEDELLÍN,PARTIDO DEL TRABAJO
+229,Femenino,Postgrado,Estudiante,Viudo,Seguridad,Carisma,Siempre voto,Amigos/familia,GOBERNACIÓN,MEDELLÍN,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+230,Masculino,Secundaria,Estudiante,Viudo,Educación,Propuestas,Nunca voto,Redes sociales,GOBERNACIÓN,BOGOTÁ,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+231,Masculino,Pregrado,Estudiante,Divorciado,Medio ambiente,Carisma,Nunca voto,Redes sociales,GOBERNACIÓN,ANTIOQUIA,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+232,Femenino,Primaria,Desempleado,Viudo,Medio ambiente,Propuestas,A veces voto,Periódicos,GOBERNACIÓN,ATLÁNTICO,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+233,Femenino,Postgrado,Independiente,Casado,Economía,Honestidad,A veces voto,Periódicos,GOBERNACIÓN,BOGOTÁ,SIGAMOS HACIENDO HISTORIA
+234,Masculino,Secundaria,Estudiante,Viudo,Medio ambiente,Experiencia,Nunca voto,Redes sociales,GOBERNACIÓN,SANTANDER,MOVIMIENTO CIUDADANO
+235,Otro,Postgrado,Independiente,Soltero,Educación,Experiencia,A veces voto,Redes sociales,GOBERNACIÓN,VALLE DEL CAUCA,FUERZA Y CORAZON POR MEXICO
+236,Masculino,Pregrado,Desempleado,Soltero,Educación,Propuestas,A veces voto,Televisión,GOBERNACIÓN,BOGOTÁ,FUERZA Y CORAZON POR MEXICO
+237,Otro,Pregrado,Independiente,Casado,Economía,Carisma,A veces voto,Periódicos,GOBERNACIÓN,ANTIOQUIA,MOVIMIENTO CIUDADANO
+238,Masculino,Primaria,Empleado,Casado,Salud,Propuestas,Siempre voto,Amigos/familia,GOBERNACIÓN,BOGOTÁ,CANDIDATURA INDEPENDIENTE
+239,Otro,Secundaria,Independiente,Casado,Medio ambiente,Propuestas,Nunca voto,Televisión,GOBERNACIÓN,TOLIMA,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+240,Masculino,Postgrado,Estudiante,Soltero,Educación,Experiencia,A veces voto,Amigos/familia,GOBERNACIÓN,NARIÑO,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+241,Masculino,Pregrado,Desempleado,Divorciado,Seguridad,Carisma,Siempre voto,Amigos/familia,GOBERNACIÓN,ANTIOQUIA,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+242,Masculino,Primaria,Empleado,Soltero,Medio ambiente,Honestidad,Siempre voto,Amigos/familia,GOBERNACIÓN,SANTANDER,FUERZA Y CORAZON POR MEXICO
+243,Masculino,Secundaria,Desempleado,Soltero,Salud,Honestidad,Siempre voto,Periódicos,GOBERNACIÓN,SANTANDER,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+244,Femenino,Pregrado,Desempleado,Divorciado,Economía,Honestidad,A veces voto,Televisión,GOBERNACIÓN,VALLE DEL CAUCA,CANDIDATURA INDEPENDIENTE
+245,Otro,Secundaria,Estudiante,Divorciado,Economía,Experiencia,Nunca voto,Periódicos,GOBERNACIÓN,MEDELLÍN,SIGAMOS HACIENDO HISTORIA
+246,Masculino,Postgrado,Independiente,Divorciado,Salud,Honestidad,Nunca voto,Amigos/familia,GOBERNACIÓN,CALI,PARTIDO ACCIÓN NACIONAL
+247,Masculino,Postgrado,Independiente,Viudo,Educación,Honestidad,Siempre voto,Periódicos,GOBERNACIÓN,NARIÑO,SIGAMOS HACIENDO HISTORIA
+248,Masculino,Postgrado,Estudiante,Soltero,Economía,Propuestas,Siempre voto,Periódicos,GOBERNACIÓN,NARIÑO,PARTIDO DEL TRABAJO
+249,Femenino,Pregrado,Independiente,Divorciado,Medio ambiente,Propuestas,Nunca voto,Amigos/familia,GOBERNACIÓN,TOLIMA,PARTIDO ACCIÓN NACIONAL
+250,Otro,Pregrado,Independiente,Viudo,Medio ambiente,Honestidad,A veces voto,Periódicos,GOBERNACIÓN,NARIÑO,FUERZA Y CORAZON POR MEXICO
+251,Masculino,Secundaria,Desempleado,Divorciado,Economía,Experiencia,Siempre voto,Periódicos,GOBERNACIÓN,BOGOTÁ,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+252,Otro,Secundaria,Desempleado,Viudo,Medio ambiente,Propuestas,A veces voto,Redes sociales,GOBERNACIÓN,CALI,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+253,Otro,Primaria,Desempleado,Viudo,Economía,Carisma,Siempre voto,Redes sociales,GOBERNACIÓN,NARIÑO,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+254,Otro,Secundaria,Independiente,Divorciado,Educación,Honestidad,Nunca voto,Redes sociales,GOBERNACIÓN,VALLE DEL CAUCA,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+255,Masculino,Pregrado,Desempleado,Soltero,Economía,Experiencia,Nunca voto,Televisión,GOBERNACIÓN,ATLÁNTICO,MORENA
+256,Femenino,Primaria,Estudiante,Soltero,Economía,Experiencia,A veces voto,Amigos/familia,GOBERNACIÓN,ATLÁNTICO,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+257,Otro,Secundaria,Estudiante,Casado,Salud,Honestidad,A veces voto,Periódicos,GOBERNACIÓN,CALI,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+258,Otro,Postgrado,Estudiante,Divorciado,Medio ambiente,Propuestas,Siempre voto,Redes sociales,GOBERNACIÓN,CUNDINAMARCA,PARTIDO DEL TRABAJO
+259,Masculino,Postgrado,Empleado,Viudo,Seguridad,Honestidad,Nunca voto,Periódicos,GOBERNACIÓN,MEDELLÍN,CANDIDATURA INDEPENDIENTE
+260,Femenino,Primaria,Independiente,Divorciado,Educación,Honestidad,A veces voto,Amigos/familia,GOBERNACIÓN,TOLIMA,PARTIDO ACCIÓN NACIONAL
+261,Masculino,Primaria,Estudiante,Soltero,Medio ambiente,Honestidad,A veces voto,Periódicos,GOBERNACIÓN,ANTIOQUIA,SIGAMOS HACIENDO HISTORIA
+262,Otro,Postgrado,Desempleado,Divorciado,Salud,Honestidad,Nunca voto,Televisión,GOBERNACIÓN,CALI,MORENA
+263,Masculino,Postgrado,Empleado,Casado,Economía,Honestidad,A veces voto,Redes sociales,GOBERNACIÓN,ANTIOQUIA,PARTIDO DEL TRABAJO
+264,Masculino,Pregrado,Empleado,Casado,Seguridad,Experiencia,Siempre voto,Redes sociales,GOBERNACIÓN,BOGOTÁ,MORENA
+265,Masculino,Postgrado,Estudiante,Divorciado,Medio ambiente,Honestidad,Nunca voto,Amigos/familia,GOBERNACIÓN,VALLE DEL CAUCA,MOVIMIENTO CIUDADANO
+266,Otro,Secundaria,Independiente,Casado,Seguridad,Experiencia,A veces voto,Amigos/familia,GOBERNACIÓN,NARIÑO,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+267,Masculino,Primaria,Independiente,Casado,Seguridad,Honestidad,Siempre voto,Periódicos,GOBERNACIÓN,BOGOTÁ,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+268,Femenino,Pregrado,Estudiante,Soltero,Medio ambiente,Propuestas,Nunca voto,Redes sociales,GOBERNACIÓN,MEDELLÍN,MORENA
+269,Masculino,Pregrado,Empleado,Casado,Seguridad,Experiencia,Nunca voto,Redes sociales,GOBERNACIÓN,NARIÑO,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+270,Otro,Secundaria,Independiente,Casado,Medio ambiente,Experiencia,A veces voto,Periódicos,GOBERNACIÓN,MEDELLÍN,MOVIMIENTO CIUDADANO
+271,Masculino,Pregrado,Desempleado,Viudo,Salud,Experiencia,A veces voto,Periódicos,GOBERNACIÓN,NARIÑO,CANDIDATURA INDEPENDIENTE
+272,Otro,Primaria,Empleado,Viudo,Medio ambiente,Honestidad,Siempre voto,Periódicos,GOBERNACIÓN,VALLE DEL CAUCA,MOVIMIENTO CIUDADANO
+273,Otro,Pregrado,Desempleado,Divorciado,Salud,Honestidad,Siempre voto,Redes sociales,GOBERNACIÓN,ANTIOQUIA,MOVIMIENTO CIUDADANO
+274,Masculino,Secundaria,Estudiante,Viudo,Salud,Experiencia,Nunca voto,Amigos/familia,GOBERNACIÓN,ANTIOQUIA,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+275,Masculino,Primaria,Empleado,Viudo,Seguridad,Honestidad,Siempre voto,Amigos/familia,GOBERNACIÓN,ANTIOQUIA,FUERZA Y CORAZON POR MEXICO
+276,Otro,Postgrado,Empleado,Divorciado,Salud,Propuestas,Nunca voto,Redes sociales,GOBERNACIÓN,VALLE DEL CAUCA,MORENA
+277,Masculino,Pregrado,Independiente,Soltero,Salud,Propuestas,A veces voto,Amigos/familia,GOBERNACIÓN,CALI,CANDIDATURA INDEPENDIENTE
+278,Otro,Pregrado,Desempleado,Divorciado,Seguridad,Carisma,Nunca voto,Periódicos,GOBERNACIÓN,SANTANDER,FUERZA Y CORAZON POR MEXICO
+279,Masculino,Primaria,Estudiante,Divorciado,Educación,Experiencia,Nunca voto,Amigos/familia,GOBERNACIÓN,CUNDINAMARCA,PARTIDO DEL TRABAJO
+280,Masculino,Secundaria,Empleado,Viudo,Seguridad,Honestidad,Siempre voto,Amigos/familia,GOBERNACIÓN,MEDELLÍN,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+281,Otro,Postgrado,Estudiante,Casado,Educación,Honestidad,A veces voto,Amigos/familia,GOBERNACIÓN,NARIÑO,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+282,Otro,Pregrado,Independiente,Divorciado,Seguridad,Honestidad,Nunca voto,Redes sociales,GOBERNACIÓN,VALLE DEL CAUCA,CANDIDATURA INDEPENDIENTE
+283,Femenino,Primaria,Estudiante,Divorciado,Seguridad,Experiencia,Nunca voto,Televisión,GOBERNACIÓN,MEDELLÍN,MOVIMIENTO CIUDADANO
+284,Masculino,Pregrado,Independiente,Casado,Educación,Carisma,Nunca voto,Redes sociales,GOBERNACIÓN,TOLIMA,FUERZA Y CORAZON POR MEXICO
+285,Otro,Secundaria,Estudiante,Casado,Educación,Experiencia,A veces voto,Televisión,GOBERNACIÓN,NARIÑO,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+286,Masculino,Primaria,Independiente,Viudo,Economía,Experiencia,A veces voto,Redes sociales,GOBERNACIÓN,CUNDINAMARCA,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+287,Femenino,Primaria,Empleado,Viudo,Medio ambiente,Propuestas,Siempre voto,Redes sociales,GOBERNACIÓN,ATLÁNTICO,SIGAMOS HACIENDO HISTORIA
+288,Otro,Pregrado,Empleado,Soltero,Medio ambiente,Honestidad,Siempre voto,Amigos/familia,GOBERNACIÓN,ATLÁNTICO,PARTIDO DEL TRABAJO
+289,Femenino,Postgrado,Estudiante,Casado,Educación,Honestidad,Siempre voto,Periódicos,GOBERNACIÓN,CUNDINAMARCA,PARTIDO ACCIÓN NACIONAL
+290,Femenino,Pregrado,Desempleado,Divorciado,Economía,Honestidad,Siempre voto,Televisión,GOBERNACIÓN,SANTANDER,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+291,Masculino,Postgrado,Empleado,Divorciado,Salud,Propuestas,Nunca voto,Amigos/familia,GOBERNACIÓN,BOGOTÁ,MORENA
+292,Otro,Postgrado,Independiente,Divorciado,Educación,Experiencia,A veces voto,Amigos/familia,GOBERNACIÓN,NARIÑO,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+293,Femenino,Primaria,Desempleado,Casado,Educación,Experiencia,Nunca voto,Amigos/familia,GOBERNACIÓN,VALLE DEL CAUCA,MORENA
+294,Otro,Primaria,Desempleado,Casado,Medio ambiente,Experiencia,Siempre voto,Amigos/familia,GOBERNACIÓN,ANTIOQUIA,MORENA
+295,Femenino,Pregrado,Desempleado,Soltero,Economía,Carisma,A veces voto,Periódicos,GOBERNACIÓN,CALI,CANDIDATURA INDEPENDIENTE
+296,Femenino,Secundaria,Empleado,Soltero,Medio ambiente,Carisma,Nunca voto,Amigos/familia,GOBERNACIÓN,MEDELLÍN,MORENA
+297,Masculino,Primaria,Empleado,Divorciado,Seguridad,Honestidad,Nunca voto,Amigos/familia,GOBERNACIÓN,CALI,SIGAMOS HACIENDO HISTORIA
+298,Femenino,Primaria,Desempleado,Divorciado,Salud,Honestidad,A veces voto,Redes sociales,GOBERNACIÓN,BOGOTÁ,MORENA
+299,Femenino,Postgrado,Desempleado,Casado,Economía,Propuestas,Siempre voto,Redes sociales,GOBERNACIÓN,ANTIOQUIA,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+300,Femenino,Pregrado,Independiente,Casado,Educación,Experiencia,A veces voto,Amigos/familia,GOBERNACIÓN,CALI,PARTIDO DEL TRABAJO
+301,Masculino,Primaria,Estudiante,Divorciado,Medio ambiente,Honestidad,A veces voto,Redes sociales,ALCALDÍA,VALLE DEL CAUCA,PARTIDO ACCIÓN NACIONAL
+302,Masculino,Pregrado,Desempleado,Divorciado,Economía,Experiencia,Nunca voto,Redes sociales,ALCALDÍA,MEDELLÍN,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+303,Femenino,Pregrado,Desempleado,Casado,Salud,Honestidad,Nunca voto,Amigos/familia,ALCALDÍA,MEDELLÍN,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+304,Otro,Pregrado,Empleado,Casado,Seguridad,Honestidad,Siempre voto,Periódicos,ALCALDÍA,MEDELLÍN,PARTIDO ACCIÓN NACIONAL
+305,Femenino,Primaria,Independiente,Casado,Medio ambiente,Experiencia,Siempre voto,Redes sociales,ALCALDÍA,MEDELLÍN,CANDIDATURA INDEPENDIENTE
+306,Masculino,Secundaria,Desempleado,Casado,Salud,Experiencia,Nunca voto,Televisión,ALCALDÍA,BOGOTÁ,PARTIDO ACCIÓN NACIONAL
+307,Masculino,Pregrado,Estudiante,Soltero,Salud,Experiencia,A veces voto,Periódicos,ALCALDÍA,SANTANDER,PARTIDO ACCIÓN NACIONAL
+308,Masculino,Secundaria,Independiente,Casado,Educación,Honestidad,Nunca voto,Televisión,ALCALDÍA,ATLÁNTICO,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+309,Femenino,Primaria,Desempleado,Soltero,Salud,Experiencia,Nunca voto,Amigos/familia,ALCALDÍA,SANTANDER,FUERZA Y CORAZON POR MEXICO
+310,Femenino,Postgrado,Estudiante,Viudo,Economía,Honestidad,Siempre voto,Amigos/familia,ALCALDÍA,ATLÁNTICO,FUERZA Y CORAZON POR MEXICO
+311,Femenino,Postgrado,Desempleado,Viudo,Salud,Propuestas,Nunca voto,Amigos/familia,ALCALDÍA,NARIÑO,PARTIDO ACCIÓN NACIONAL
+312,Otro,Secundaria,Desempleado,Viudo,Seguridad,Experiencia,A veces voto,Televisión,ALCALDÍA,CUNDINAMARCA,CANDIDATURA INDEPENDIENTE
+313,Otro,Postgrado,Desempleado,Viudo,Seguridad,Honestidad,Nunca voto,Amigos/familia,ALCALDÍA,VALLE DEL CAUCA,PARTIDO DEL TRABAJO
+314,Masculino,Postgrado,Empleado,Viudo,Salud,Experiencia,Siempre voto,Periódicos,ALCALDÍA,CALI,CANDIDATURA INDEPENDIENTE
+315,Femenino,Postgrado,Estudiante,Soltero,Economía,Carisma,Siempre voto,Redes sociales,ALCALDÍA,CUNDINAMARCA,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+316,Masculino,Postgrado,Desempleado,Viudo,Medio ambiente,Carisma,Nunca voto,Periódicos,ALCALDÍA,BOGOTÁ,FUERZA Y CORAZON POR MEXICO
+317,Femenino,Primaria,Desempleado,Divorciado,Medio ambiente,Honestidad,A veces voto,Amigos/familia,ALCALDÍA,TOLIMA,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+318,Otro,Primaria,Empleado,Viudo,Salud,Carisma,Siempre voto,Redes sociales,ALCALDÍA,MEDELLÍN,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+319,Masculino,Pregrado,Estudiante,Soltero,Salud,Experiencia,Nunca voto,Periódicos,ALCALDÍA,SANTANDER,MOVIMIENTO CIUDADANO
+320,Masculino,Postgrado,Estudiante,Divorciado,Educación,Propuestas,Nunca voto,Amigos/familia,ALCALDÍA,BOGOTÁ,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+321,Masculino,Pregrado,Desempleado,Soltero,Medio ambiente,Experiencia,A veces voto,Periódicos,ALCALDÍA,VALLE DEL CAUCA,MOVIMIENTO CIUDADANO
+322,Masculino,Primaria,Estudiante,Soltero,Economía,Honestidad,Siempre voto,Televisión,ALCALDÍA,CUNDINAMARCA,SIGAMOS HACIENDO HISTORIA
+323,Masculino,Primaria,Independiente,Viudo,Seguridad,Experiencia,Siempre voto,Televisión,ALCALDÍA,CUNDINAMARCA,PARTIDO ACCIÓN NACIONAL
+324,Otro,Secundaria,Empleado,Divorciado,Educación,Propuestas,Nunca voto,Amigos/familia,ALCALDÍA,VALLE DEL CAUCA,PARTIDO ACCIÓN NACIONAL
+325,Otro,Postgrado,Estudiante,Divorciado,Medio ambiente,Honestidad,Siempre voto,Televisión,ALCALDÍA,TOLIMA,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+326,Femenino,Postgrado,Independiente,Divorciado,Educación,Experiencia,Siempre voto,Televisión,ALCALDÍA,TOLIMA,SIGAMOS HACIENDO HISTORIA
+327,Femenino,Postgrado,Estudiante,Soltero,Economía,Carisma,Siempre voto,Periódicos,ALCALDÍA,BOGOTÁ,PARTIDO DEL TRABAJO
+328,Masculino,Postgrado,Estudiante,Viudo,Salud,Carisma,Siempre voto,Periódicos,ALCALDÍA,VALLE DEL CAUCA,CANDIDATURA INDEPENDIENTE
+329,Femenino,Secundaria,Independiente,Casado,Economía,Carisma,Nunca voto,Periódicos,ALCALDÍA,VALLE DEL CAUCA,FUERZA Y CORAZON POR MEXICO
+330,Femenino,Postgrado,Desempleado,Soltero,Medio ambiente,Propuestas,Nunca voto,Periódicos,ALCALDÍA,VALLE DEL CAUCA,MOVIMIENTO CIUDADANO
+331,Femenino,Primaria,Independiente,Divorciado,Economía,Carisma,Nunca voto,Amigos/familia,ALCALDÍA,BOGOTÁ,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+332,Masculino,Primaria,Empleado,Viudo,Medio ambiente,Honestidad,A veces voto,Periódicos,ALCALDÍA,SANTANDER,PARTIDO DEL TRABAJO
+333,Otro,Pregrado,Estudiante,Divorciado,Medio ambiente,Experiencia,Siempre voto,Periódicos,ALCALDÍA,TOLIMA,CANDIDATURA INDEPENDIENTE
+334,Otro,Primaria,Empleado,Divorciado,Salud,Experiencia,A veces voto,Amigos/familia,ALCALDÍA,TOLIMA,PARTIDO ACCIÓN NACIONAL
+335,Otro,Secundaria,Desempleado,Soltero,Salud,Experiencia,Nunca voto,Redes sociales,ALCALDÍA,NARIÑO,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+336,Femenino,Primaria,Desempleado,Soltero,Medio ambiente,Honestidad,Siempre voto,Amigos/familia,ALCALDÍA,CUNDINAMARCA,FUERZA Y CORAZON POR MEXICO
+337,Otro,Pregrado,Estudiante,Divorciado,Educación,Honestidad,Nunca voto,Amigos/familia,ALCALDÍA,MEDELLÍN,FUERZA Y CORAZON POR MEXICO
+338,Otro,Primaria,Independiente,Soltero,Medio ambiente,Experiencia,Nunca voto,Televisión,ALCALDÍA,TOLIMA,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+339,Masculino,Secundaria,Empleado,Soltero,Salud,Carisma,Nunca voto,Periódicos,ALCALDÍA,ANTIOQUIA,PARTIDO ACCIÓN NACIONAL
+340,Femenino,Postgrado,Independiente,Soltero,Salud,Carisma,A veces voto,Amigos/familia,ALCALDÍA,NARIÑO,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+341,Femenino,Secundaria,Desempleado,Viudo,Educación,Propuestas,Nunca voto,Televisión,ALCALDÍA,ATLÁNTICO,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+342,Masculino,Postgrado,Independiente,Casado,Seguridad,Honestidad,Nunca voto,Periódicos,ALCALDÍA,NARIÑO,MOVIMIENTO CIUDADANO
+343,Otro,Postgrado,Empleado,Casado,Educación,Honestidad,Siempre voto,Redes sociales,ALCALDÍA,MEDELLÍN,SIGAMOS HACIENDO HISTORIA
+344,Femenino,Postgrado,Independiente,Viudo,Seguridad,Carisma,Siempre voto,Amigos/familia,ALCALDÍA,BOGOTÁ,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+345,Masculino,Pregrado,Empleado,Casado,Economía,Honestidad,Siempre voto,Televisión,ALCALDÍA,MEDELLÍN,PARTIDO DEL TRABAJO
+346,Femenino,Postgrado,Independiente,Soltero,Seguridad,Carisma,Siempre voto,Redes sociales,ALCALDÍA,NARIÑO,PARTIDO DEL TRABAJO
+347,Otro,Primaria,Empleado,Soltero,Seguridad,Carisma,A veces voto,Televisión,ALCALDÍA,ANTIOQUIA,MORENA
+348,Otro,Postgrado,Empleado,Casado,Economía,Carisma,Nunca voto,Periódicos,ALCALDÍA,ATLÁNTICO,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+349,Masculino,Pregrado,Desempleado,Viudo,Medio ambiente,Propuestas,Siempre voto,Amigos/familia,ALCALDÍA,VALLE DEL CAUCA,PARTIDO DEL TRABAJO
+350,Otro,Pregrado,Independiente,Casado,Seguridad,Carisma,Siempre voto,Redes sociales,ALCALDÍA,BOGOTÁ,MORENA
+351,Otro,Primaria,Desempleado,Soltero,Educación,Carisma,A veces voto,Redes sociales,ALCALDÍA,MEDELLÍN,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+352,Otro,Secundaria,Estudiante,Divorciado,Seguridad,Carisma,Nunca voto,Amigos/familia,ALCALDÍA,ATLÁNTICO,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+353,Otro,Primaria,Empleado,Soltero,Salud,Propuestas,Nunca voto,Periódicos,ALCALDÍA,MEDELLÍN,MORENA
+354,Masculino,Secundaria,Estudiante,Soltero,Educación,Carisma,A veces voto,Redes sociales,ALCALDÍA,TOLIMA,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+355,Masculino,Primaria,Estudiante,Soltero,Economía,Experiencia,Siempre voto,Amigos/familia,ALCALDÍA,SANTANDER,MORENA
+356,Femenino,Pregrado,Desempleado,Casado,Economía,Honestidad,Nunca voto,Amigos/familia,ALCALDÍA,TOLIMA,PARTIDO DEL TRABAJO
+357,Otro,Pregrado,Desempleado,Casado,Seguridad,Propuestas,Siempre voto,Amigos/familia,ALCALDÍA,BOGOTÁ,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+358,Masculino,Pregrado,Empleado,Casado,Educación,Propuestas,Siempre voto,Redes sociales,ALCALDÍA,ANTIOQUIA,PARTIDO ACCIÓN NACIONAL
+359,Femenino,Secundaria,Estudiante,Viudo,Seguridad,Carisma,Siempre voto,Redes sociales,ALCALDÍA,CUNDINAMARCA,PARTIDO DEL TRABAJO
+360,Otro,Secundaria,Desempleado,Viudo,Salud,Carisma,Siempre voto,Televisión,ALCALDÍA,VALLE DEL CAUCA,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+361,Otro,Postgrado,Empleado,Soltero,Educación,Carisma,Siempre voto,Televisión,ALCALDÍA,SANTANDER,SIGAMOS HACIENDO HISTORIA
+362,Otro,Postgrado,Estudiante,Casado,Salud,Propuestas,Siempre voto,Periódicos,ALCALDÍA,MEDELLÍN,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+363,Masculino,Primaria,Independiente,Casado,Educación,Honestidad,A veces voto,Amigos/familia,ALCALDÍA,ATLÁNTICO,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+364,Masculino,Primaria,Desempleado,Divorciado,Medio ambiente,Honestidad,Siempre voto,Redes sociales,ALCALDÍA,NARIÑO,CANDIDATURA INDEPENDIENTE
+365,Femenino,Primaria,Desempleado,Casado,Seguridad,Honestidad,Siempre voto,Amigos/familia,ALCALDÍA,SANTANDER,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+366,Femenino,Pregrado,Estudiante,Soltero,Educación,Propuestas,Siempre voto,Periódicos,ALCALDÍA,VALLE DEL CAUCA,CANDIDATURA INDEPENDIENTE
+367,Otro,Primaria,Independiente,Divorciado,Medio ambiente,Honestidad,A veces voto,Redes sociales,ALCALDÍA,ANTIOQUIA,PARTIDO DEL TRABAJO
+368,Femenino,Primaria,Estudiante,Divorciado,Salud,Carisma,A veces voto,Amigos/familia,ALCALDÍA,VALLE DEL CAUCA,SIGAMOS HACIENDO HISTORIA
+369,Otro,Secundaria,Desempleado,Divorciado,Medio ambiente,Carisma,Nunca voto,Redes sociales,ALCALDÍA,ANTIOQUIA,MORENA
+370,Masculino,Secundaria,Independiente,Divorciado,Medio ambiente,Propuestas,Nunca voto,Televisión,ALCALDÍA,CUNDINAMARCA,MOVIMIENTO CIUDADANO
+371,Otro,Postgrado,Desempleado,Viudo,Medio ambiente,Carisma,Nunca voto,Amigos/familia,ALCALDÍA,ANTIOQUIA,MOVIMIENTO CIUDADANO
+372,Masculino,Pregrado,Independiente,Soltero,Economía,Honestidad,Siempre voto,Amigos/familia,ALCALDÍA,VALLE DEL CAUCA,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+373,Masculino,Primaria,Independiente,Divorciado,Salud,Carisma,Nunca voto,Periódicos,ALCALDÍA,TOLIMA,FUERZA Y CORAZON POR MEXICO
+374,Masculino,Primaria,Independiente,Divorciado,Economía,Honestidad,A veces voto,Periódicos,ALCALDÍA,VALLE DEL CAUCA,PARTIDO DEL TRABAJO
+375,Otro,Primaria,Desempleado,Viudo,Educación,Experiencia,A veces voto,Periódicos,ALCALDÍA,CALI,PARTIDO ACCIÓN NACIONAL
+376,Femenino,Primaria,Estudiante,Casado,Educación,Experiencia,A veces voto,Televisión,ALCALDÍA,CUNDINAMARCA,SIGAMOS HACIENDO HISTORIA
+377,Masculino,Postgrado,Estudiante,Divorciado,Educación,Carisma,Nunca voto,Redes sociales,ALCALDÍA,TOLIMA,CANDIDATURA INDEPENDIENTE
+378,Femenino,Primaria,Empleado,Soltero,Medio ambiente,Carisma,Siempre voto,Televisión,ALCALDÍA,BOGOTÁ,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+379,Femenino,Secundaria,Estudiante,Casado,Economía,Honestidad,Nunca voto,Amigos/familia,ALCALDÍA,VALLE DEL CAUCA,CANDIDATURA INDEPENDIENTE
+380,Masculino,Postgrado,Independiente,Divorciado,Educación,Carisma,A veces voto,Televisión,ALCALDÍA,VALLE DEL CAUCA,SIGAMOS HACIENDO HISTORIA
+381,Otro,Primaria,Desempleado,Casado,Medio ambiente,Experiencia,Siempre voto,Amigos/familia,ALCALDÍA,ANTIOQUIA,MOVIMIENTO CIUDADANO
+382,Femenino,Primaria,Estudiante,Viudo,Medio ambiente,Propuestas,Nunca voto,Periódicos,ALCALDÍA,TOLIMA,CANDIDATURA INDEPENDIENTE
+383,Masculino,Pregrado,Empleado,Soltero,Medio ambiente,Carisma,Siempre voto,Amigos/familia,ALCALDÍA,CUNDINAMARCA,PARTIDO DEL TRABAJO
+384,Otro,Secundaria,Independiente,Soltero,Economía,Propuestas,Nunca voto,Amigos/familia,ALCALDÍA,TOLIMA,FUERZA Y CORAZON POR MEXICO
+385,Masculino,Primaria,Independiente,Casado,Seguridad,Experiencia,Nunca voto,Amigos/familia,ALCALDÍA,TOLIMA,PARTIDO ACCIÓN NACIONAL
+386,Femenino,Primaria,Independiente,Divorciado,Salud,Honestidad,A veces voto,Redes sociales,ALCALDÍA,VALLE DEL CAUCA,CANDIDATURA INDEPENDIENTE
+387,Masculino,Pregrado,Desempleado,Viudo,Economía,Experiencia,A veces voto,Redes sociales,ALCALDÍA,BOGOTÁ,MORENA
+388,Otro,Secundaria,Desempleado,Divorciado,Educación,Honestidad,A veces voto,Redes sociales,ALCALDÍA,NARIÑO,MORENA
+389,Femenino,Pregrado,Estudiante,Divorciado,Seguridad,Carisma,Nunca voto,Redes sociales,ALCALDÍA,CALI,FUERZA Y CORAZON POR MEXICO
+390,Masculino,Pregrado,Desempleado,Casado,Salud,Experiencia,A veces voto,Periódicos,ALCALDÍA,BOGOTÁ,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+391,Otro,Pregrado,Empleado,Casado,Seguridad,Experiencia,A veces voto,Amigos/familia,ALCALDÍA,TOLIMA,FUERZA Y CORAZON POR MEXICO
+392,Otro,Postgrado,Desempleado,Casado,Medio ambiente,Propuestas,Nunca voto,Redes sociales,ALCALDÍA,SANTANDER,PARTIDO ACCIÓN NACIONAL
+393,Masculino,Postgrado,Independiente,Divorciado,Salud,Honestidad,A veces voto,Periódicos,ALCALDÍA,VALLE DEL CAUCA,MORENA
+394,Masculino,Postgrado,Estudiante,Soltero,Economía,Experiencia,Siempre voto,Amigos/familia,ALCALDÍA,SANTANDER,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+395,Femenino,Secundaria,Desempleado,Casado,Salud,Experiencia,A veces voto,Periódicos,ALCALDÍA,SANTANDER,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+396,Masculino,Secundaria,Desempleado,Casado,Economía,Experiencia,A veces voto,Periódicos,ALCALDÍA,SANTANDER,MOVIMIENTO CIUDADANO
+397,Femenino,Pregrado,Estudiante,Viudo,Salud,Honestidad,A veces voto,Redes sociales,ALCALDÍA,TOLIMA,FUERZA Y CORAZON POR MEXICO
+398,Otro,Primaria,Estudiante,Viudo,Seguridad,Honestidad,Nunca voto,Redes sociales,ALCALDÍA,ANTIOQUIA,MOVIMIENTO CIUDADANO
+399,Masculino,Postgrado,Independiente,Viudo,Salud,Experiencia,A veces voto,Amigos/familia,ALCALDÍA,ATLÁNTICO,PARTIDO ACCIÓN NACIONAL
+400,Masculino,Pregrado,Independiente,Casado,Seguridad,Honestidad,Nunca voto,Televisión,ALCALDÍA,CUNDINAMARCA,SIGAMOS HACIENDO HISTORIA
+401,Otro,Secundaria,Desempleado,Viudo,Seguridad,Honestidad,A veces voto,Amigos/familia,ALCALDÍA,MEDELLÍN,SIGAMOS HACIENDO HISTORIA
+402,Masculino,Primaria,Estudiante,Soltero,Seguridad,Honestidad,A veces voto,Amigos/familia,ALCALDÍA,ANTIOQUIA,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+403,Masculino,Primaria,Empleado,Soltero,Seguridad,Honestidad,Nunca voto,Redes sociales,ALCALDÍA,BOGOTÁ,PARTIDO DEL TRABAJO
+404,Otro,Pregrado,Independiente,Casado,Medio ambiente,Honestidad,Siempre voto,Periódicos,ALCALDÍA,CALI,MOVIMIENTO CIUDADANO
+405,Otro,Pregrado,Empleado,Soltero,Seguridad,Honestidad,A veces voto,Televisión,ALCALDÍA,SANTANDER,PARTIDO DEL TRABAJO
+406,Femenino,Secundaria,Estudiante,Soltero,Economía,Honestidad,A veces voto,Amigos/familia,ALCALDÍA,VALLE DEL CAUCA,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+407,Femenino,Pregrado,Estudiante,Casado,Medio ambiente,Carisma,Nunca voto,Televisión,ALCALDÍA,ANTIOQUIA,FUERZA Y CORAZON POR MEXICO
+408,Masculino,Postgrado,Estudiante,Casado,Salud,Honestidad,Siempre voto,Televisión,ALCALDÍA,TOLIMA,MOVIMIENTO CIUDADANO
+409,Masculino,Primaria,Desempleado,Viudo,Salud,Propuestas,Nunca voto,Periódicos,ALCALDÍA,ANTIOQUIA,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+410,Masculino,Postgrado,Empleado,Viudo,Educación,Carisma,A veces voto,Amigos/familia,ALCALDÍA,CALI,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+411,Otro,Secundaria,Empleado,Casado,Economía,Honestidad,Nunca voto,Televisión,ALCALDÍA,TOLIMA,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+412,Otro,Secundaria,Estudiante,Casado,Economía,Honestidad,Nunca voto,Amigos/familia,ALCALDÍA,BOGOTÁ,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+413,Femenino,Primaria,Empleado,Viudo,Salud,Experiencia,A veces voto,Amigos/familia,ALCALDÍA,ATLÁNTICO,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+414,Otro,Primaria,Estudiante,Soltero,Medio ambiente,Carisma,Siempre voto,Periódicos,ALCALDÍA,CALI,SIGAMOS HACIENDO HISTORIA
+415,Femenino,Pregrado,Desempleado,Soltero,Salud,Experiencia,A veces voto,Amigos/familia,ALCALDÍA,ATLÁNTICO,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+416,Masculino,Pregrado,Empleado,Viudo,Medio ambiente,Propuestas,A veces voto,Televisión,ALCALDÍA,CUNDINAMARCA,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+417,Femenino,Pregrado,Desempleado,Divorciado,Medio ambiente,Propuestas,A veces voto,Periódicos,ALCALDÍA,SANTANDER,SIGAMOS HACIENDO HISTORIA
+418,Masculino,Postgrado,Estudiante,Casado,Seguridad,Propuestas,Siempre voto,Periódicos,ALCALDÍA,CUNDINAMARCA,PARTIDO DEL TRABAJO
+419,Otro,Primaria,Independiente,Casado,Medio ambiente,Carisma,A veces voto,Periódicos,ALCALDÍA,CUNDINAMARCA,FUERZA Y CORAZON POR MEXICO
+420,Femenino,Postgrado,Empleado,Casado,Seguridad,Carisma,A veces voto,Periódicos,ALCALDÍA,CUNDINAMARCA,MORENA
+421,Femenino,Primaria,Estudiante,Viudo,Educación,Carisma,A veces voto,Amigos/familia,ALCALDÍA,ANTIOQUIA,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+422,Otro,Pregrado,Desempleado,Casado,Economía,Honestidad,Siempre voto,Redes sociales,ALCALDÍA,CUNDINAMARCA,MORENA
+423,Otro,Pregrado,Desempleado,Divorciado,Seguridad,Propuestas,Siempre voto,Amigos/familia,ALCALDÍA,TOLIMA,FUERZA Y CORAZON POR MEXICO
+424,Femenino,Secundaria,Estudiante,Casado,Salud,Propuestas,A veces voto,Televisión,ALCALDÍA,MEDELLÍN,CANDIDATURA INDEPENDIENTE
+425,Otro,Pregrado,Empleado,Viudo,Educación,Carisma,A veces voto,Amigos/familia,ALCALDÍA,ATLÁNTICO,MORENA
+426,Femenino,Secundaria,Empleado,Divorciado,Medio ambiente,Honestidad,Nunca voto,Redes sociales,ALCALDÍA,BOGOTÁ,MORENA
+427,Masculino,Postgrado,Desempleado,Casado,Salud,Propuestas,A veces voto,Redes sociales,ALCALDÍA,CALI,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+428,Otro,Secundaria,Estudiante,Soltero,Salud,Propuestas,Siempre voto,Periódicos,ALCALDÍA,CALI,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+429,Masculino,Postgrado,Independiente,Viudo,Seguridad,Experiencia,A veces voto,Televisión,ALCALDÍA,BOGOTÁ,SIGAMOS HACIENDO HISTORIA
+430,Femenino,Postgrado,Desempleado,Casado,Economía,Honestidad,Siempre voto,Periódicos,ALCALDÍA,CUNDINAMARCA,PARTIDO DEL TRABAJO
+431,Femenino,Primaria,Independiente,Viudo,Salud,Carisma,Siempre voto,Periódicos,ALCALDÍA,SANTANDER,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+432,Femenino,Postgrado,Estudiante,Soltero,Medio ambiente,Propuestas,Siempre voto,Redes sociales,ALCALDÍA,CALI,MORENA
+433,Masculino,Pregrado,Estudiante,Soltero,Educación,Experiencia,Nunca voto,Periódicos,ALCALDÍA,VALLE DEL CAUCA,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+434,Femenino,Pregrado,Estudiante,Divorciado,Salud,Honestidad,A veces voto,Redes sociales,ALCALDÍA,MEDELLÍN,CANDIDATURA INDEPENDIENTE
+435,Otro,Primaria,Estudiante,Divorciado,Seguridad,Propuestas,Nunca voto,Televisión,ALCALDÍA,VALLE DEL CAUCA,CANDIDATURA INDEPENDIENTE
+436,Otro,Postgrado,Empleado,Soltero,Educación,Carisma,Nunca voto,Redes sociales,ALCALDÍA,NARIÑO,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+437,Femenino,Primaria,Estudiante,Casado,Salud,Honestidad,Siempre voto,Redes sociales,ALCALDÍA,VALLE DEL CAUCA,SIGAMOS HACIENDO HISTORIA
+438,Femenino,Secundaria,Estudiante,Casado,Salud,Carisma,Nunca voto,Periódicos,ALCALDÍA,ANTIOQUIA,MOVIMIENTO CIUDADANO
+439,Otro,Primaria,Desempleado,Viudo,Medio ambiente,Experiencia,A veces voto,Redes sociales,ALCALDÍA,ANTIOQUIA,MOVIMIENTO CIUDADANO
+440,Femenino,Pregrado,Independiente,Casado,Salud,Propuestas,A veces voto,Amigos/familia,ALCALDÍA,ANTIOQUIA,MORENA
+441,Masculino,Postgrado,Independiente,Casado,Salud,Carisma,Siempre voto,Redes sociales,ALCALDÍA,BOGOTÁ,SIGAMOS HACIENDO HISTORIA
+442,Masculino,Secundaria,Independiente,Viudo,Seguridad,Carisma,A veces voto,Redes sociales,ALCALDÍA,SANTANDER,FUERZA Y CORAZON POR MEXICO
+443,Otro,Pregrado,Empleado,Casado,Economía,Experiencia,Siempre voto,Televisión,ALCALDÍA,NARIÑO,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+444,Otro,Postgrado,Desempleado,Soltero,Medio ambiente,Honestidad,A veces voto,Periódicos,ALCALDÍA,ATLÁNTICO,CANDIDATURA INDEPENDIENTE
+445,Femenino,Pregrado,Empleado,Viudo,Medio ambiente,Carisma,Nunca voto,Redes sociales,ALCALDÍA,BOGOTÁ,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+446,Femenino,Secundaria,Estudiante,Divorciado,Seguridad,Carisma,A veces voto,Amigos/familia,ALCALDÍA,SANTANDER,SIGAMOS HACIENDO HISTORIA
+447,Otro,Postgrado,Empleado,Soltero,Educación,Experiencia,Nunca voto,Televisión,ALCALDÍA,CALI,MORENA
+448,Femenino,Secundaria,Empleado,Viudo,Educación,Honestidad,A veces voto,Redes sociales,ALCALDÍA,VALLE DEL CAUCA,MOVIMIENTO CIUDADANO
+449,Femenino,Pregrado,Empleado,Viudo,Seguridad,Honestidad,A veces voto,Amigos/familia,ALCALDÍA,CUNDINAMARCA,MOVIMIENTO CIUDADANO
+450,Femenino,Primaria,Estudiante,Casado,Educación,Honestidad,Nunca voto,Amigos/familia,ALCALDÍA,SANTANDER,PARTIDO ACCIÓN NACIONAL
+451,Masculino,Pregrado,Empleado,Casado,Salud,Carisma,A veces voto,Televisión,CONGRESO,NARIÑO,FUERZA Y CORAZON POR MEXICO
+452,Masculino,Postgrado,Estudiante,Divorciado,Educación,Propuestas,Siempre voto,Televisión,CONGRESO,CALI,CANDIDATURA INDEPENDIENTE
+453,Masculino,Secundaria,Estudiante,Viudo,Economía,Honestidad,A veces voto,Televisión,CONGRESO,ATLÁNTICO,MOVIMIENTO CIUDADANO
+454,Otro,Pregrado,Desempleado,Divorciado,Seguridad,Experiencia,A veces voto,Redes sociales,CONGRESO,CUNDINAMARCA,MOVIMIENTO CIUDADANO
+455,Femenino,Postgrado,Empleado,Soltero,Medio ambiente,Honestidad,Nunca voto,Redes sociales,CONGRESO,CALI,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+456,Masculino,Primaria,Desempleado,Soltero,Salud,Honestidad,Siempre voto,Amigos/familia,CONGRESO,TOLIMA,MOVIMIENTO CIUDADANO
+457,Femenino,Secundaria,Estudiante,Soltero,Seguridad,Propuestas,Nunca voto,Amigos/familia,CONGRESO,VALLE DEL CAUCA,FUERZA Y CORAZON POR MEXICO
+458,Femenino,Pregrado,Independiente,Divorciado,Educación,Experiencia,Nunca voto,Amigos/familia,CONGRESO,TOLIMA,MORENA
+459,Otro,Postgrado,Empleado,Casado,Medio ambiente,Carisma,Siempre voto,Amigos/familia,CONGRESO,NARIÑO,PARTIDO ACCIÓN NACIONAL
+460,Otro,Primaria,Empleado,Viudo,Medio ambiente,Honestidad,Nunca voto,Amigos/familia,CONGRESO,BOGOTÁ,CANDIDATURA INDEPENDIENTE
+461,Femenino,Secundaria,Desempleado,Viudo,Educación,Propuestas,Nunca voto,Televisión,CONGRESO,NARIÑO,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+462,Otro,Secundaria,Estudiante,Viudo,Educación,Experiencia,Siempre voto,Periódicos,CONGRESO,MEDELLÍN,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+463,Masculino,Secundaria,Empleado,Casado,Medio ambiente,Propuestas,Nunca voto,Televisión,CONGRESO,ATLÁNTICO,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+464,Otro,Pregrado,Estudiante,Casado,Economía,Honestidad,Nunca voto,Amigos/familia,CONGRESO,NARIÑO,SIGAMOS HACIENDO HISTORIA
+465,Otro,Pregrado,Estudiante,Soltero,Salud,Propuestas,A veces voto,Periódicos,CONGRESO,NARIÑO,PARTIDO ACCIÓN NACIONAL
+466,Femenino,Pregrado,Estudiante,Soltero,Educación,Experiencia,Siempre voto,Periódicos,CONGRESO,TOLIMA,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+467,Otro,Secundaria,Independiente,Casado,Salud,Experiencia,Nunca voto,Amigos/familia,CONGRESO,CALI,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+468,Femenino,Postgrado,Independiente,Soltero,Educación,Experiencia,Nunca voto,Periódicos,CONGRESO,NARIÑO,MOVIMIENTO CIUDADANO
+469,Masculino,Pregrado,Estudiante,Divorciado,Salud,Carisma,Nunca voto,Periódicos,CONGRESO,MEDELLÍN,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+470,Femenino,Primaria,Independiente,Soltero,Medio ambiente,Experiencia,Siempre voto,Redes sociales,CONGRESO,NARIÑO,CANDIDATURA INDEPENDIENTE
+471,Masculino,Pregrado,Estudiante,Casado,Medio ambiente,Experiencia,A veces voto,Televisión,CONGRESO,ANTIOQUIA,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+472,Masculino,Primaria,Independiente,Casado,Economía,Propuestas,Siempre voto,Amigos/familia,CONGRESO,ANTIOQUIA,PARTIDO DEL TRABAJO
+473,Otro,Secundaria,Desempleado,Divorciado,Educación,Propuestas,A veces voto,Amigos/familia,CONGRESO,NARIÑO,MOVIMIENTO CIUDADANO
+474,Masculino,Postgrado,Estudiante,Soltero,Medio ambiente,Honestidad,Siempre voto,Periódicos,CONGRESO,SANTANDER,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+475,Masculino,Secundaria,Estudiante,Divorciado,Salud,Honestidad,Nunca voto,Redes sociales,CONGRESO,SANTANDER,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+476,Masculino,Postgrado,Empleado,Divorciado,Seguridad,Honestidad,Nunca voto,Redes sociales,CONGRESO,ATLÁNTICO,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+477,Masculino,Secundaria,Empleado,Soltero,Economía,Honestidad,Siempre voto,Televisión,CONGRESO,VALLE DEL CAUCA,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+478,Masculino,Primaria,Empleado,Divorciado,Medio ambiente,Honestidad,A veces voto,Amigos/familia,CONGRESO,CALI,MORENA
+479,Otro,Pregrado,Independiente,Divorciado,Educación,Carisma,Nunca voto,Periódicos,CONGRESO,BOGOTÁ,CANDIDATURA INDEPENDIENTE
+480,Masculino,Pregrado,Desempleado,Divorciado,Educación,Carisma,Siempre voto,Redes sociales,CONGRESO,VALLE DEL CAUCA,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+481,Masculino,Primaria,Estudiante,Divorciado,Seguridad,Experiencia,A veces voto,Amigos/familia,CONGRESO,CALI,PARTIDO ACCIÓN NACIONAL
+482,Otro,Primaria,Independiente,Viudo,Economía,Propuestas,Siempre voto,Amigos/familia,CONGRESO,CUNDINAMARCA,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+483,Masculino,Primaria,Independiente,Viudo,Medio ambiente,Honestidad,Siempre voto,Periódicos,CONGRESO,VALLE DEL CAUCA,FUERZA Y CORAZON POR MEXICO
+484,Otro,Pregrado,Estudiante,Soltero,Economía,Propuestas,Siempre voto,Redes sociales,CONGRESO,NARIÑO,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+485,Otro,Primaria,Estudiante,Casado,Salud,Experiencia,A veces voto,Televisión,CONGRESO,CALI,CANDIDATURA INDEPENDIENTE
+486,Masculino,Pregrado,Estudiante,Casado,Medio ambiente,Propuestas,Nunca voto,Redes sociales,CONGRESO,TOLIMA,MORENA
+487,Otro,Secundaria,Desempleado,Viudo,Salud,Carisma,A veces voto,Redes sociales,CONGRESO,VALLE DEL CAUCA,PARTIDO ACCIÓN NACIONAL
+488,Femenino,Pregrado,Independiente,Viudo,Educación,Honestidad,Nunca voto,Televisión,CONGRESO,ANTIOQUIA,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+489,Masculino,Pregrado,Estudiante,Soltero,Salud,Propuestas,A veces voto,Televisión,CONGRESO,BOGOTÁ,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+490,Otro,Pregrado,Desempleado,Viudo,Seguridad,Carisma,Siempre voto,Periódicos,CONGRESO,BOGOTÁ,PARTIDO DEL TRABAJO
+491,Masculino,Secundaria,Empleado,Casado,Economía,Carisma,Siempre voto,Periódicos,CONGRESO,SANTANDER,MOVIMIENTO CIUDADANO
+492,Masculino,Postgrado,Desempleado,Casado,Economía,Honestidad,Siempre voto,Televisión,CONGRESO,BOGOTÁ,SIGAMOS HACIENDO HISTORIA
+493,Otro,Pregrado,Estudiante,Viudo,Medio ambiente,Experiencia,Siempre voto,Redes sociales,CONGRESO,VALLE DEL CAUCA,MORENA
+494,Femenino,Pregrado,Independiente,Viudo,Seguridad,Propuestas,Siempre voto,Redes sociales,CONGRESO,ATLÁNTICO,SIGAMOS HACIENDO HISTORIA
+495,Otro,Postgrado,Estudiante,Casado,Salud,Propuestas,A veces voto,Televisión,CONGRESO,TOLIMA,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+496,Otro,Secundaria,Empleado,Divorciado,Economía,Honestidad,A veces voto,Redes sociales,CONGRESO,SANTANDER,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+497,Masculino,Postgrado,Independiente,Soltero,Salud,Propuestas,A veces voto,Redes sociales,CONGRESO,CALI,PARTIDO DEL TRABAJO
+498,Otro,Pregrado,Independiente,Soltero,Medio ambiente,Carisma,A veces voto,Amigos/familia,CONGRESO,MEDELLÍN,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+499,Masculino,Primaria,Desempleado,Viudo,Economía,Carisma,Siempre voto,Televisión,CONGRESO,NARIÑO,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+500,Otro,Pregrado,Empleado,Divorciado,Economía,Carisma,A veces voto,Periódicos,CONGRESO,BOGOTÁ,MORENA
+501,Masculino,Postgrado,Empleado,Divorciado,Economía,Propuestas,Siempre voto,Televisión,CONGRESO,CUNDINAMARCA,FUERZA Y CORAZON POR MEXICO
+502,Otro,Primaria,Empleado,Viudo,Economía,Experiencia,Siempre voto,Redes sociales,CONGRESO,SANTANDER,MORENA
+503,Femenino,Primaria,Empleado,Viudo,Salud,Experiencia,A veces voto,Amigos/familia,CONGRESO,VALLE DEL CAUCA,MORENA
+504,Femenino,Pregrado,Empleado,Soltero,Salud,Propuestas,Nunca voto,Periódicos,CONGRESO,VALLE DEL CAUCA,PARTIDO DEL TRABAJO
+505,Otro,Postgrado,Desempleado,Casado,Economía,Propuestas,Siempre voto,Televisión,CONGRESO,CALI,MORENA
+506,Masculino,Postgrado,Estudiante,Soltero,Economía,Propuestas,A veces voto,Televisión,CONGRESO,VALLE DEL CAUCA,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+507,Masculino,Secundaria,Estudiante,Divorciado,Economía,Experiencia,Siempre voto,Televisión,CONGRESO,ATLÁNTICO,FUERZA Y CORAZON POR MEXICO
+508,Masculino,Postgrado,Desempleado,Viudo,Salud,Carisma,Nunca voto,Periódicos,CONGRESO,SANTANDER,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+509,Otro,Pregrado,Estudiante,Viudo,Seguridad,Carisma,Nunca voto,Televisión,CONGRESO,TOLIMA,MORENA
+510,Otro,Postgrado,Desempleado,Soltero,Seguridad,Honestidad,Nunca voto,Periódicos,CONGRESO,VALLE DEL CAUCA,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+511,Masculino,Primaria,Empleado,Divorciado,Economía,Experiencia,Siempre voto,Redes sociales,CONGRESO,NARIÑO,PARTIDO ACCIÓN NACIONAL
+512,Masculino,Secundaria,Empleado,Soltero,Medio ambiente,Propuestas,Siempre voto,Periódicos,CONGRESO,SANTANDER,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+513,Femenino,Primaria,Independiente,Viudo,Medio ambiente,Experiencia,Nunca voto,Redes sociales,CONGRESO,NARIÑO,FUERZA Y CORAZON POR MEXICO
+514,Masculino,Pregrado,Independiente,Casado,Medio ambiente,Propuestas,Nunca voto,Redes sociales,CONGRESO,CALI,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+515,Otro,Pregrado,Independiente,Casado,Medio ambiente,Experiencia,Siempre voto,Periódicos,CONGRESO,ANTIOQUIA,SIGAMOS HACIENDO HISTORIA
+516,Femenino,Postgrado,Independiente,Divorciado,Salud,Carisma,A veces voto,Redes sociales,CONGRESO,VALLE DEL CAUCA,PARTIDO DEL TRABAJO
+517,Femenino,Secundaria,Desempleado,Casado,Educación,Propuestas,A veces voto,Amigos/familia,CONGRESO,VALLE DEL CAUCA,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+518,Masculino,Postgrado,Independiente,Divorciado,Educación,Carisma,Siempre voto,Televisión,CONGRESO,MEDELLÍN,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+519,Femenino,Postgrado,Desempleado,Divorciado,Salud,Honestidad,A veces voto,Redes sociales,CONGRESO,ATLÁNTICO,MORENA
+520,Otro,Secundaria,Empleado,Casado,Educación,Propuestas,Siempre voto,Televisión,CONGRESO,SANTANDER,MOVIMIENTO CIUDADANO
+521,Otro,Secundaria,Independiente,Divorciado,Salud,Experiencia,Nunca voto,Amigos/familia,CONGRESO,MEDELLÍN,FUERZA Y CORAZON POR MEXICO
+522,Masculino,Primaria,Estudiante,Divorciado,Educación,Propuestas,Siempre voto,Periódicos,CONGRESO,ATLÁNTICO,PARTIDO DEL TRABAJO
+523,Femenino,Postgrado,Empleado,Divorciado,Salud,Propuestas,A veces voto,Periódicos,CONGRESO,NARIÑO,CANDIDATURA INDEPENDIENTE
+524,Otro,Pregrado,Desempleado,Viudo,Medio ambiente,Honestidad,Siempre voto,Televisión,CONGRESO,ATLÁNTICO,MORENA
+525,Otro,Postgrado,Desempleado,Soltero,Salud,Honestidad,Nunca voto,Amigos/familia,CONGRESO,CALI,SIGAMOS HACIENDO HISTORIA
+526,Otro,Secundaria,Independiente,Divorciado,Salud,Honestidad,Siempre voto,Amigos/familia,CONGRESO,MEDELLÍN,FUERZA Y CORAZON POR MEXICO
+527,Otro,Secundaria,Desempleado,Divorciado,Economía,Carisma,A veces voto,Periódicos,CONGRESO,NARIÑO,CANDIDATURA INDEPENDIENTE
+528,Masculino,Postgrado,Empleado,Viudo,Economía,Carisma,Nunca voto,Periódicos,CONGRESO,MEDELLÍN,PARTIDO DEL TRABAJO
+529,Masculino,Primaria,Independiente,Soltero,Medio ambiente,Experiencia,Siempre voto,Amigos/familia,CONGRESO,BOGOTÁ,FUERZA Y CORAZON POR MEXICO
+530,Otro,Secundaria,Desempleado,Casado,Educación,Propuestas,Nunca voto,Televisión,CONGRESO,TOLIMA,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+531,Otro,Secundaria,Independiente,Soltero,Seguridad,Propuestas,A veces voto,Periódicos,CONGRESO,CALI,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+532,Femenino,Pregrado,Independiente,Viudo,Salud,Honestidad,A veces voto,Televisión,CONGRESO,CUNDINAMARCA,PARTIDO ACCIÓN NACIONAL
+533,Otro,Primaria,Independiente,Divorciado,Salud,Carisma,Nunca voto,Redes sociales,CONGRESO,ATLÁNTICO,FUERZA Y CORAZON POR MEXICO
+534,Masculino,Secundaria,Estudiante,Casado,Educación,Honestidad,A veces voto,Periódicos,CONGRESO,MEDELLÍN,MOVIMIENTO CIUDADANO
+535,Femenino,Postgrado,Desempleado,Divorciado,Educación,Experiencia,A veces voto,Amigos/familia,CONGRESO,CALI,SIGAMOS HACIENDO HISTORIA
+536,Otro,Primaria,Independiente,Casado,Economía,Honestidad,Siempre voto,Televisión,CONGRESO,CALI,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+537,Otro,Pregrado,Desempleado,Soltero,Salud,Propuestas,Nunca voto,Redes sociales,CONGRESO,TOLIMA,SIGAMOS HACIENDO HISTORIA
+538,Otro,Primaria,Estudiante,Casado,Seguridad,Propuestas,Nunca voto,Periódicos,CONGRESO,MEDELLÍN,PARTIDO DEL TRABAJO
+539,Otro,Secundaria,Independiente,Divorciado,Educación,Carisma,Nunca voto,Redes sociales,CONGRESO,MEDELLÍN,SIGAMOS HACIENDO HISTORIA
+540,Masculino,Primaria,Estudiante,Viudo,Seguridad,Honestidad,A veces voto,Redes sociales,CONGRESO,NARIÑO,SIGAMOS HACIENDO HISTORIA
+541,Otro,Postgrado,Estudiante,Casado,Educación,Propuestas,Siempre voto,Amigos/familia,CONGRESO,SANTANDER,MORENA
+542,Otro,Pregrado,Desempleado,Divorciado,Seguridad,Carisma,Nunca voto,Televisión,CONGRESO,ANTIOQUIA,CANDIDATURA INDEPENDIENTE
+543,Otro,Primaria,Desempleado,Viudo,Medio ambiente,Experiencia,Siempre voto,Periódicos,CONGRESO,SANTANDER,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+544,Otro,Primaria,Independiente,Casado,Medio ambiente,Propuestas,Siempre voto,Periódicos,CONGRESO,ANTIOQUIA,PARTIDO ACCIÓN NACIONAL
+545,Femenino,Secundaria,Independiente,Casado,Salud,Propuestas,Siempre voto,Periódicos,CONGRESO,TOLIMA,CANDIDATURA INDEPENDIENTE
+546,Femenino,Secundaria,Estudiante,Viudo,Economía,Propuestas,Nunca voto,Televisión,CONGRESO,SANTANDER,SIGAMOS HACIENDO HISTORIA
+547,Femenino,Secundaria,Estudiante,Viudo,Medio ambiente,Carisma,Siempre voto,Amigos/familia,CONGRESO,SANTANDER,PARTIDO DEL TRABAJO
+548,Masculino,Pregrado,Desempleado,Divorciado,Economía,Honestidad,Nunca voto,Amigos/familia,CONGRESO,CALI,PARTIDO ACCIÓN NACIONAL
+549,Femenino,Postgrado,Empleado,Divorciado,Medio ambiente,Carisma,Nunca voto,Periódicos,CONGRESO,NARIÑO,MOVIMIENTO CIUDADANO
+550,Otro,Primaria,Desempleado,Soltero,Medio ambiente,Experiencia,Nunca voto,Televisión,CONGRESO,BOGOTÁ,MOVIMIENTO CIUDADANO
+551,Femenino,Secundaria,Desempleado,Casado,Medio ambiente,Experiencia,Nunca voto,Periódicos,CONGRESO,CUNDINAMARCA,MORENA
+552,Femenino,Postgrado,Empleado,Soltero,Educación,Experiencia,Nunca voto,Redes sociales,CONGRESO,TOLIMA,MOVIMIENTO CIUDADANO
+553,Masculino,Primaria,Desempleado,Viudo,Seguridad,Carisma,Siempre voto,Televisión,CONGRESO,VALLE DEL CAUCA,CANDIDATURA INDEPENDIENTE
+554,Otro,Pregrado,Estudiante,Casado,Economía,Carisma,Nunca voto,Televisión,CONGRESO,ATLÁNTICO,MOVIMIENTO CIUDADANO
+555,Masculino,Postgrado,Empleado,Soltero,Salud,Propuestas,Siempre voto,Redes sociales,CONGRESO,SANTANDER,CANDIDATURA INDEPENDIENTE
+556,Masculino,Pregrado,Independiente,Viudo,Economía,Propuestas,Siempre voto,Amigos/familia,CONGRESO,NARIÑO,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+557,Femenino,Pregrado,Estudiante,Soltero,Seguridad,Honestidad,A veces voto,Redes sociales,CONGRESO,VALLE DEL CAUCA,CANDIDATURA INDEPENDIENTE
+558,Femenino,Primaria,Desempleado,Divorciado,Economía,Experiencia,Siempre voto,Redes sociales,CONGRESO,ANTIOQUIA,PARTIDO DEL TRABAJO
+559,Masculino,Pregrado,Estudiante,Viudo,Medio ambiente,Propuestas,Siempre voto,Televisión,CONGRESO,TOLIMA,SIGAMOS HACIENDO HISTORIA
+560,Masculino,Primaria,Estudiante,Casado,Medio ambiente,Propuestas,A veces voto,Periódicos,CONGRESO,VALLE DEL CAUCA,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+561,Femenino,Secundaria,Independiente,Divorciado,Seguridad,Carisma,A veces voto,Amigos/familia,CONGRESO,BOGOTÁ,PARTIDO ACCIÓN NACIONAL
+562,Otro,Postgrado,Independiente,Casado,Medio ambiente,Experiencia,Siempre voto,Redes sociales,CONGRESO,VALLE DEL CAUCA,PARTIDO DEL TRABAJO
+563,Otro,Postgrado,Estudiante,Divorciado,Economía,Experiencia,Siempre voto,Redes sociales,CONGRESO,VALLE DEL CAUCA,MOVIMIENTO CIUDADANO
+564,Otro,Primaria,Empleado,Soltero,Medio ambiente,Honestidad,A veces voto,Periódicos,CONGRESO,TOLIMA,PARTIDO ACCIÓN NACIONAL
+565,Otro,Secundaria,Estudiante,Divorciado,Economía,Carisma,Nunca voto,Televisión,CONGRESO,CUNDINAMARCA,PARTIDO ACCIÓN NACIONAL
+566,Masculino,Postgrado,Estudiante,Soltero,Salud,Carisma,A veces voto,Televisión,CONGRESO,MEDELLÍN,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+567,Femenino,Pregrado,Estudiante,Divorciado,Seguridad,Honestidad,Nunca voto,Televisión,CONGRESO,VALLE DEL CAUCA,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+568,Femenino,Primaria,Desempleado,Soltero,Seguridad,Carisma,A veces voto,Amigos/familia,CONGRESO,TOLIMA,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+569,Masculino,Postgrado,Desempleado,Soltero,Seguridad,Carisma,Nunca voto,Periódicos,CONGRESO,TOLIMA,CANDIDATURA INDEPENDIENTE
+570,Otro,Primaria,Empleado,Casado,Salud,Carisma,A veces voto,Amigos/familia,CONGRESO,TOLIMA,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+571,Otro,Postgrado,Empleado,Soltero,Salud,Propuestas,Siempre voto,Periódicos,CONGRESO,CUNDINAMARCA,PARTIDO ACCIÓN NACIONAL
+572,Femenino,Secundaria,Empleado,Divorciado,Salud,Honestidad,Nunca voto,Redes sociales,CONGRESO,BOGOTÁ,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+573,Femenino,Postgrado,Empleado,Divorciado,Seguridad,Carisma,Nunca voto,Amigos/familia,CONGRESO,MEDELLÍN,SIGAMOS HACIENDO HISTORIA
+574,Femenino,Secundaria,Empleado,Viudo,Medio ambiente,Honestidad,Siempre voto,Amigos/familia,CONGRESO,SANTANDER,SIGAMOS HACIENDO HISTORIA
+575,Femenino,Primaria,Estudiante,Casado,Medio ambiente,Propuestas,Nunca voto,Televisión,CONGRESO,ANTIOQUIA,SIGAMOS HACIENDO HISTORIA
+576,Otro,Secundaria,Desempleado,Soltero,Medio ambiente,Experiencia,Siempre voto,Periódicos,CONGRESO,BOGOTÁ,SIGAMOS HACIENDO HISTORIA
+577,Masculino,Primaria,Desempleado,Divorciado,Salud,Propuestas,A veces voto,Periódicos,CONGRESO,SANTANDER,CANDIDATURA INDEPENDIENTE
+578,Otro,Postgrado,Estudiante,Casado,Medio ambiente,Carisma,A veces voto,Redes sociales,CONGRESO,BOGOTÁ,PARTIDO ACCIÓN NACIONAL
+579,Otro,Secundaria,Desempleado,Casado,Educación,Experiencia,Nunca voto,Amigos/familia,CONGRESO,BOGOTÁ,FUERZA Y CORAZON POR MEXICO
+580,Masculino,Primaria,Desempleado,Divorciado,Medio ambiente,Carisma,A veces voto,Amigos/familia,CONGRESO,ANTIOQUIA,PARTIDO VERDE ECOLOGISTA DE MÉXICO
+581,Femenino,Postgrado,Desempleado,Soltero,Salud,Experiencia,Nunca voto,Periódicos,CONGRESO,ATLÁNTICO,PARTIDO ACCIÓN NACIONAL
+582,Masculino,Primaria,Empleado,Casado,Educación,Propuestas,A veces voto,Televisión,CONGRESO,ANTIOQUIA,FUERZA Y CORAZON POR MEXICO
+583,Femenino,Primaria,Independiente,Divorciado,Medio ambiente,Honestidad,A veces voto,Televisión,CONGRESO,BOGOTÁ,FUERZA Y CORAZON POR MEXICO
+584,Masculino,Postgrado,Estudiante,Soltero,Economía,Honestidad,A veces voto,Televisión,CONGRESO,TOLIMA,FUERZA Y CORAZON POR MEXICO
+585,Otro,Postgrado,Estudiante,Divorciado,Educación,Honestidad,Siempre voto,Redes sociales,CONGRESO,MEDELLÍN,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+586,Otro,Primaria,Empleado,Soltero,Economía,Honestidad,Nunca voto,Redes sociales,CONGRESO,CALI,FUERZA Y CORAZON POR MEXICO
+587,Femenino,Primaria,Independiente,Casado,Seguridad,Honestidad,Siempre voto,Televisión,CONGRESO,CUNDINAMARCA,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+588,Femenino,Secundaria,Estudiante,Casado,Seguridad,Propuestas,A veces voto,Televisión,CONGRESO,TOLIMA,PARTIDO DEL TRABAJO
+589,Femenino,Secundaria,Desempleado,Casado,Medio ambiente,Propuestas,Siempre voto,Amigos/familia,CONGRESO,TOLIMA,PARTIDO DEL TRABAJO
+590,Otro,Postgrado,Desempleado,Casado,Medio ambiente,Honestidad,A veces voto,Periódicos,CONGRESO,MEDELLÍN,MOVIMIENTO CIUDADANO
+591,Otro,Postgrado,Independiente,Viudo,Medio ambiente,Honestidad,Nunca voto,Televisión,CONGRESO,ATLÁNTICO,PARTIDO DE LA REVOLUCIÓN DEMOCRÁTICA
+592,Femenino,Postgrado,Desempleado,Divorciado,Salud,Carisma,Nunca voto,Redes sociales,CONGRESO,BOGOTÁ,PARTIDO DEL TRABAJO
+593,Femenino,Secundaria,Empleado,Viudo,Economía,Experiencia,A veces voto,Redes sociales,CONGRESO,BOGOTÁ,CANDIDATURA INDEPENDIENTE
+594,Masculino,Postgrado,Independiente,Casado,Salud,Experiencia,A veces voto,Televisión,CONGRESO,SANTANDER,PARTIDO DEL TRABAJO
+595,Femenino,Secundaria,Desempleado,Soltero,Seguridad,Propuestas,A veces voto,Periódicos,CONGRESO,MEDELLÍN,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+596,Masculino,Postgrado,Desempleado,Viudo,Medio ambiente,Honestidad,A veces voto,Redes sociales,CONGRESO,BOGOTÁ,PARTIDO REVOLUCIONARIO INSTITUCIONAL
+597,Femenino,Pregrado,Empleado,Divorciado,Medio ambiente,Honestidad,A veces voto,Periódicos,CONGRESO,CUNDINAMARCA,MOVIMIENTO CIUDADANO
+598,Otro,Postgrado,Estudiante,Divorciado,Educación,Carisma,Siempre voto,Redes sociales,CONGRESO,MEDELLÍN,PARTIDO ACCIÓN NACIONAL
+599,Femenino,Primaria,Empleado,Soltero,Salud,Honestidad,A veces voto,Redes sociales,CONGRESO,CALI,MORENA
+600,Femenino,Primaria,Independiente,Divorciado,Medio ambiente,Honestidad,Nunca voto,Amigos/familia,CONGRESO,BOGOTÁ,MORENA
