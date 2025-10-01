@@ -101,7 +101,8 @@ num_attributes = len(dataset[0]) - 2
 app = FastAPI()
 
 class Registro(BaseModel):
-    datos: conlist(int, min_items=num_attributes, max_items=num_attributes)
+    datos: conlist(int, min_length=num_attributes, max_length=num_attributes)
+
 
 @app.post("/predecir")
 def predecir(registro: Registro):
