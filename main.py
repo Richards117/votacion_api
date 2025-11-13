@@ -29,12 +29,23 @@ def str_column_to_int(dataset, column):
 # ------------------- Paso 3: Resumen por clase -------------------
 def separate_by_class(dataset):
     separated = dict()
+    header = dataset[0]
+    id_idx = header.index("id") if "id" in header else 0
+    created_idx = header.index("created_at") if "created_at" in header else None
+    class_idx = len(header) - 1  # columna partido
+
     for row in dataset[1:]:  # ignorar encabezado
-        class_value = row[-1]  # última columna = clase
+        class_value = row[class_idx]  # clase
         if class_value not in separated:
             separated[class_value] = list()
-        # ignoramos columna id (columna 0)
-        separated[class_value].append([float(x) for x in row[1:-1]])
+
+        # Tomamos solo las columnas relevantes (excluimos id, created_at y clase)
+        filtered = []
+        for i, value in enumerate(row):
+            if i in [id_idx, created_idx, class_idx]:
+                continue
+            filtered.append(float(value))
+        separated[class_value].append(filtered)
     return separated
 
 def mean(numbers):
@@ -86,23 +97,26 @@ def predict(summaries, input_vector):
 # ------------------- ENTRENAMIENTO INICIAL -------------------
 filename = "dataset_votacion.csv"
 dataset = load_csv(filename)
+header = dataset[0]
 
-# Convertir columnas a enteros, ignorando id (columna 0)
-for i in range(1, len(dataset[0])):
-    if i == len(dataset[0]) - 1:  # última columna = clase
+# Convertir columnas a enteros (ignorando id y created_at)
+for i in range(len(header)):
+    col_name = header[i].lower()
+    if col_name in ["id", "created_at"]:
+        continue
+    elif i == len(header) - 1:  # última columna = partido
         partido_lookup = str_column_to_int(dataset, i)
     else:
         str_column_to_int(dataset, i)
 
 summaries = summarize_by_class(dataset)
 
-# Cantidad de atributos (sin contar id ni clase)
-num_attributes = len(dataset[0]) - 2
+# Calcular número de atributos (sin id, created_at ni clase)
+num_attributes = len(header) - 3
 
 # ------------------- API con FastAPI -------------------
 app = FastAPI()
 
-# Endpoint raíz para comprobar que la API está viva
 @app.get("/")
 def root():
     return {"mensaje": "API corriendo correctamente"}
