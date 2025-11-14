@@ -1,6 +1,7 @@
 from csv import reader
 from math import sqrt, exp, pi
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, conlist
 import os
 import uvicorn
@@ -116,6 +117,21 @@ num_attributes = len(header) - 3
 
 # ------------------- API con FastAPI -------------------
 app = FastAPI()
+
+# ---- MIDDLEWARE CORS ----
+origins = [
+    "https://candigo.vercel.app",
+    "http://localhost:3000",
+    "http://127.0.0.1:3000"
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,  # cambiar a ["*"] si quieres permitir todos
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 @app.get("/")
 def root():
