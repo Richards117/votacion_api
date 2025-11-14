@@ -1,6 +1,7 @@
 from csv import reader
 from math import sqrt, exp, pi
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, conlist
 import os
 import uvicorn
@@ -71,7 +72,7 @@ def summarize_by_class(dataset):
 def calculate_probability(x, mean, stdev):
     eps = 1e-6  # evitar división por cero
     stdev = max(stdev, eps)
-    exponent = exp(-((x - mean) ** 2) / (2 * stdev ** 2))
+    exponent = exp(-((x - mean) * 2) / (2 * stdev * 2))
     return (1 / (sqrt(2 * pi) * stdev)) * exponent
 
 # ------------------- Paso 5: Probabilidad por clase -------------------
@@ -117,6 +118,21 @@ num_attributes = len(header) - 3
 # ------------------- API con FastAPI -------------------
 app = FastAPI()
 
+# ---- MIDDLEWARE CORS ----
+origins = [
+    "https://candigo.vercel.app",
+    "http://localhost:3000",
+    "http://127.0.0.1:3000"
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,  # cambiar a ["*"] si quieres permitir todos
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 @app.get("/")
 def root():
     return {"mensaje": "API corriendo correctamente"}
@@ -134,6 +150,6 @@ def predecir(registro: Registro):
     return {"prediccion": partido_real}
 
 # ------------------- INICIO DE SERVIDOR -------------------
-if __name__ == "__main__":
+if _name_ == "_main_":
     port = int(os.environ.get("PORT", 8000))  # usar el puerto asignado por Render
     uvicorn.run("main:app", host="0.0.0.0", port=port, reload=True)
